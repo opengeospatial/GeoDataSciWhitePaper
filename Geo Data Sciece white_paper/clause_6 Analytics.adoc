@@ -1,0 +1,28 @@
+== Section Header
+//write text in as many clauses as necessary. Use one document or many, your choice!
+* Representation and analytics
+* Analysis
+	* New in Geo Analytics
+	* Analytics types
+* visualization, maps and Aral statistics
+	* Innundation Map and Analysis
+* statistics
+	* Geo Statistics
+* temporal
+	* Space Time Patterns
+	* Trajectory Reconstruction
+	* Time and Space
+* CyberGIS
+	* CyberGIS Juypter for Geo analytics
+	* CyberGIS
+	* Geovisualization
+	* Hydro example Flood CyberGIS Blue Waters
+* Sci Computing, Notebooks, Python
+	* Lifecycle of a Scientific IDea
+	* Workflow with Jupyter
+	* Analytics and DS
+	* Notebooks - ESRI
+	* Data publication
+	* Analytics and DS
+* GPU accelerated Geo Analysis
+	* Visualization as Data Science

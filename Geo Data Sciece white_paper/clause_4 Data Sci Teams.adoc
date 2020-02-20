@@ -1,0 +1,33 @@
+* Data Scientists, Teams, Process
+* CGIS Seminar Data Sci
+* Data Scientists  and multi-disciplinary domain teams
+	* Spatial data science
+	* Decision Makers
+	* Workflow D&I
+	* Data science craft was D&I
+	* Data Scientists
+	* data Science today
+	* natural resources and agriculture
+* the role of tools: human augmentation
+	* ML Keys to Success
+	* augmented intelligence
+		* Session 4 Summary
+* Training and Istituionalization
+	* interdisciplinary
+	* LA Data Sci Foundation
+	* NSF GSI
+	* Training
+	* NGA Data Corp
+	* data corp and analysts
+	* Skillset diversity
+	* CyberGIS summer school
+* data science Process
+	* MS Team Data Sci Process
+	* Data Sci Framework
+	* Designing the future
+	* experiences
+	* data
+	* technologies
+	* products
+	* systems
+	* implications

@@ -1,0 +1,25 @@
+== Section Header
+//write text in as many clauses as necessary. Use one document or many, your choice!
+* Models and Decisions
+* Knowledge Powered Data Sciece
+	* Session 2 Summary
+	* Knowledge-Powered Data Science
+* Model Supported decision science
+	* Knowledge Driven decisions
+	* Decision Makers
+	* Forecasting and Interventions
+	* Diversity of Models
+	* Interventions
+	* Decision Making
+* Knowledge networks
+	* linked data
+		* Linked Data schema.org
+		* Geospatial for GQL
+	* Open Knowledge Networks
+* Next STepsIntegrated Modeling
+	* Model Catalog
+	* Session 4 Summary
+	* GEo Data Science
+	* Model Integration
+	* MINT
+	* Model Data Formats

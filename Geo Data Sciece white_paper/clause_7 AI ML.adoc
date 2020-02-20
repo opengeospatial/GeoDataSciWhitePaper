@@ -1,0 +1,44 @@
+* AI/ML/DL
+* AI / ML / DL Intro
+	* Exponential Video
+	* AI and Data Science
+	* AI Defintion
+	* AI is a social construct
+	* AI Growing fast
+	* AI Expectations
+	* GEoAI LifeCycle
+	* AI Waves
+	* ML for species distribution
+	* Data Sci, Big Data, AI/ML
+* Challenges
+	* Role of Hardware
+	* Challenges for AI in 2020
+	* Machine Learning challenges
+	* machine learning challenges
+	* ML Brittle
+	* Challenges in Geo ML
+* Benchmarks and Training Sets
+	* Training Data
+	* Synthetic Training Data
+	* Training data Confidence
+	* Data availability: HERE OLP
+	* ImageNET
+	* BigEarthNet
+	* SpaceNet
+	* Imagenet Benchmark
+	* ML Commons for Earth Observation
+	* Radiant ML Hub
+	* Data Sharing
+* Augmenting ML
+	* augmented intelligence
+		* Session 4 Summary
+	* ML and Human augmentation
+	* AI wins Nobel Prize
+	* 20-year roadmap for AI
+	* AI Expecations and Domain Experts
+	* Role of Hardware
+	* ML Keys to Success
+	* Human element in ML
+	* Theory Guided data sci ML
+	* Physics guided ML
+* ML Keys to Success

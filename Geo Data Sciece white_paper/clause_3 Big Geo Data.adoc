@@ -1,0 +1,34 @@
+== Section Header
+//write text in as many clauses as necessary. Use one document or many, your choice!
+Big Geospatial Data
+  * Big DAta
+    * Session 1 Summary
+    * 4th paradigm
+  * EO Data Revolution
+    * Planned Imagery Providers
+  * Big Data Architecture
+    * Big Data WP USe Cases
+    * EO Platform, Datacubes
+    * Big Data Stack
+  * Open Questions
+    * Session 1 Open Questions
+    * Biggest Challenge
+  * Recommendations
+    * Session 1 Next Steps
+    * Summary and Conclusion 2
+    * Session 1 What works
+  * raster
+    * Standards
+    * Session 2 Summary
+  * location
+    * Streaming GPS
+    * Spatial Intelligence
+    * Intelligent Systems for Geo
+    * 5G
+    * Ambient Location
+  * temporal
+    * Space time as Big Data
+  * high velocity streaming iot edge
+    * Fast Data Streams
+    * geospatial portion of IoT
+    * Data at edge is massive

@@ -1,0 +1,71 @@
+== Section Header
+//write text in as many clauses as necessary. Use one document or many, your choice!
+* Emerging Trends
+* Edge Computing
+	* Networks and IoT
+		* 5G Cellular
+		* EO tomorrow IoT in Space
+		* IoT Hype
+		* IoT early stages
+		* Satellites over City
+		* Edge Computing
+		* Latency
+		* Data at edge is massive
+		* distributed computing
+			* Tension between centralized and distributed
+			* Compromise
+			* Latency
+			* Cloud: central and edge
+		* Edge Infrastructuere
+	* Location context
+		* Edge Use Cases
+		* geospatial portion of IoT
+		* Scale from Sensor To Cloud
+		* New in Geo Analytics
+		* NVIDIA MEtropolis
+	* fast data
+		* Fast Data Roots
+		* Fast Data Streams
+		* IOT Sensors Create Fast Data Streams
+		* Fast Data Poses Analytics Problems
+		* Reservoir Sampling
+		* Approximate Computing
+		* Summary and Conclusion 1
+		* Spatial Intelligence
+		* Streaming SQL
+	* edge computing / IoT
+		* Edge Use Cases
+		* Cloud vs Edge
+		* Session 3 Summary
+* Data Ethics
+	* bias
+		* Session 4 Summary
+	* data ethics
+		* Data Ethics defined
+		* Ethics examples
+		* City Data and Predictive Analytics
+		* Ethics
+		* Blockers
+		* STokes summary
+		* data pedigree
+		* Data Ethics references
+		* Data Sharing and Ethics
+		* Session 5 Summary
+	* Implications
+		* implications
+	* privacy
+		* Data Sci actions to implement
+* Heterogenous Computing
+	* Heterogeneous Figure
+	* Domain Specifc Computing
+	* GPU with Tensor Cores
+	* Geospatial Heterogenous
+	* LibHSA
+	* Neuromorphic
+	* Summary and Conclusion 2
+	* cuSpatial
+	* Session 1 Summary
+	* Session 1 What works
+	* Session 1 Open Questions
+	* Session 1 Next Steps
+	* Session 3 Summary

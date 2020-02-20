@@ -1,0 +1,35 @@
+* Data Management
+* data management
+	* Data Sci actions to implement
+	* Data Sharing Agrements
+	* Data publication
+	* Data Management
+	* Data issues storage mgmt
+	* Data Sharing and Ethics
+	* Blockers
+	* data quality
+		* Data quality standards
+* Open Data
+	* Data Repositories, Google Datasets
+	* Open data on AWS
+	* LA Open Data
+	* Open Data
+	* Open Data discusison
+	* private data
+* data bases
+	* Data Strategies
+	* Converged Database
+	* Benefits of Converged Database
+	* coverged DB and workflow
+* cloud Native
+	* cloud native
+		* Cloud Native
+		* Cloud Optimized GeoTIFF
+		* STAC
+		* HDF for cloud
+		* Cloud native and 5G
+	* Amazon data lake
+	* Object Stores
+	* ABCI design
+* Data Platoforms/Ecosystems
+	* EO Platform, Datacubes
