@@ -1,5 +1,5 @@
 :Title: OGC (add title text)
-:titletext: {Title}
+:titletext: Geospatial Data Science
 :doctype: book
 :encoding: utf-8
 :lang: en
@@ -21,7 +21,7 @@
 |External identifier of this OGC(R) document: http://www.opengis.net/doc/{doc-type}/{standard}/{m.n}
 |Internal reference number of this OGC(R) document:    YY-nnnrx
 |Category: OGC(R) White Paper
-|Editor:   <Name(s) of Editor or Editors>
+|Editor:  George Percivall
 |===
 
 [cols = "^", frame = "none"]
@@ -74,9 +74,28 @@ toc::[]
 ////
 Make sure to complete each included document
 ////
-include::clause_0_front_material.adoc[]
 
-include::clause_1.adoc[]
+include::clause_00_front_material.adoc[]
+
+include::clause_01_Doc_Ovw.adoc[]
+
+include::clause_02_DS_Overview.adoc[]
+
+include::clause_03_Big_Geo_Data.adoc[]
+
+include::clause_04_Data_Sci_Teams.adoc[]
+
+include::clause_05_Data_Mgmt.adoc[]
+
+include::clause_06_Analytics.adoc[]
+
+include::clause_07_AI_ML.adoc[]
+
+include::clause_08_Models.adoc[]
+
+include::clause_09_Applications.adoc[]
+
+include::clause_10_Trends.adoc[]
 
 <<<
 //use annexes as needed

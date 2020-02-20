@@ -1,6 +1,9 @@
-== Section Header
+== Geospatial Data Science
 //write text in as many clauses as necessary. Use one document or many, your choice!
-* LP DS tag line
+
+
+
+
 * LP DS topic
 * NIST diagram
 * data Science today
