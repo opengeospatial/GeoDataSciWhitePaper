@@ -1,7 +1,6 @@
-== Section Header
-//write text in as many clauses as necessary. Use one document or many, your choice!
-* Emerging Trends
-* Edge Computing
+== Emerging Trends
+
+=== Edge Computing
 	* Networks and IoT
 		* 5G Cellular
 		* EO tomorrow IoT in Space
@@ -37,25 +36,8 @@
 		* Edge Use Cases
 		* Cloud vs Edge
 		* Session 3 Summary
-* Data Ethics
-	* bias
-		* Session 4 Summary
-	* data ethics
-		* Data Ethics defined
-		* Ethics examples
-		* City Data and Predictive Analytics
-		* Ethics
-		* Blockers
-		* STokes summary
-		* data pedigree
-		* Data Ethics references
-		* Data Sharing and Ethics
-		* Session 5 Summary
-	* Implications
-		* implications
-	* privacy
-		* Data Sci actions to implement
-* Heterogenous Computing
+
+=== Heterogenous Computing
 	* Heterogeneous Figure
 	* Domain Specifc Computing
 	* GPU with Tensor Cores
@@ -69,3 +51,22 @@
 	* Session 1 Open Questions
 	* Session 1 Next Steps
 	* Session 3 Summary
+
+=== Data Ethics
+		* bias
+			* Session 4 Summary
+		* data ethics
+			* Data Ethics defined
+			* Ethics examples
+			* City Data and Predictive Analytics
+			* Ethics
+			* Blockers
+			* STokes summary
+			* data pedigree
+			* Data Ethics references
+			* Data Sharing and Ethics
+			* Session 5 Summary
+		* Implications
+			* implications
+		* privacy
+			* Data Sci actions to implement

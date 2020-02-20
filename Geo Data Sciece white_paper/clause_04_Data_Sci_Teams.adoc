@@ -1,6 +1,18 @@
-* Data Scientists, Teams, Process
-* CGIS Seminar Data Sci
-* Data Scientists  and multi-disciplinary domain teams
+
+== Data Scientists, Teams, Process
+
+=== Data Scientists and multi-disciplinary teams
+
+Quotes:
+“I teach my data scientists how to work on interdisciplinary teams” –Jeanne Holm,  UCLA
+“I want them to be respectful and understanding of the scope that storytellers bring, what geospatial experts bring, what policymakers bring”
+“Going in as a data-scientist-with-the-answers was often counterproductive” -  Regan Smyth, NatureServe
+“Running models but not understanding the drivers and whether data science can help can be misleading”
+“Geospatial analysts are domain experts; data scientists tend to sit more horizontal” – Devaki Raj, CrowdAI
+“you don't see data scientists necessarily learning geospatial technology but you expect you spatial technologists to learn data science”
+“data science tools become more flexible for people that have domain expertise”
+
+
 	* Spatial data science
 	* Decision Makers
 	* Workflow D&I
@@ -8,20 +20,23 @@
 	* Data Scientists
 	* data Science today
 	* natural resources and agriculture
-* the role of tools: human augmentation
+
+
+=== the role of tools: human augmentation
+
 	* ML Keys to Success
 	* augmented intelligence
 		* Session 4 Summary
-* Training and Istituionalization
-	* interdisciplinary
-	* LA Data Sci Foundation
-	* NSF GSI
-	* Training
-	* NGA Data Corp
-	* data corp and analysts
-	* Skillset diversity
-	* CyberGIS summer school
-* data science Process
+
+Quotes from Location Powers
+“we can't tensorflow our way out of this problem” – Andy Brooks
+“The r-squared is really high, but its garbage” – discussion group   
+“Opportunity for commercial vendors to implement for it to become routine.  User interface need not change with new stuff going on under the hood” - Marc Armstrong
+“SWAT team of nerds” - Megan Furman
+Augmented Intelligence – Combination of human reasoning and tools
+
+=== Data Science Process
+
 	* MS Team Data Sci Process
 	* Data Sci Framework
 	* Designing the future
@@ -31,3 +46,14 @@
 	* products
 	* systems
 	* implications
+
+=== Training and Institutionalization
+
+	* interdisciplinary
+	* LA Data Sci Foundation
+	* NSF GSI
+	* Training
+	* NGA Data Corp
+	* data corp and analysts
+	* Skillset diversity
+	* CyberGIS summer school

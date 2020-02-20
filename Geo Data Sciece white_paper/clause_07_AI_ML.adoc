@@ -1,5 +1,8 @@
-* AI/ML/DL
-* AI / ML / DL Intro
+== AI and Machine Learning
+
+=== The emergence of Artificial Intelligence
+
+AI / ML / DL Intro
 	* Exponential Video
 	* AI and Data Science
 	* AI Defintion
@@ -10,14 +13,18 @@
 	* AI Waves
 	* ML for species distribution
 	* Data Sci, Big Data, AI/ML
-* Challenges
+
+
+=== Challenges with AI
 	* Role of Hardware
 	* Challenges for AI in 2020
 	* Machine Learning challenges
 	* machine learning challenges
 	* ML Brittle
 	* Challenges in Geo ML
-* Benchmarks and Training Sets
+
+
+=== Benchmarks and Training Sets
 	* Training Data
 	* Synthetic Training Data
 	* Training data Confidence
@@ -29,7 +36,9 @@
 	* ML Commons for Earth Observation
 	* Radiant ML Hub
 	* Data Sharing
-* Augmenting ML
+
+
+== Augmenting Machine Learning
 	* augmented intelligence
 		* Session 4 Summary
 	* ML and Human augmentation

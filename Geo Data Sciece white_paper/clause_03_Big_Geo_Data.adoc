@@ -1,15 +1,24 @@
-== Section Header
+== Big Geospatial Data
 //write text in as many clauses as necessary. Use one document or many, your choice!
-Big Geospatial Data
-  * Big DAta
+
+=== Big Data
+
     * Session 1 Summary
     * 4th paradigm
-  * EO Data Revolution
+
+=== Geospatial Data Explosoin
     * Planned Imagery Providers
-  * Big Data Architecture
+
+=== OGC Big Geo Data
+
+
+=== Big Data Architecture
     * Big Data WP USe Cases
     * EO Platform, Datacubes
     * Big Data Stack
+
+
+
   * Open Questions
     * Session 1 Open Questions
     * Biggest Challenge

@@ -1,5 +1,8 @@
-* Data Management
-* data management
+== Data Management
+
+
+=== Data Management Policies
+
 	* Data Sci actions to implement
 	* Data Sharing Agrements
 	* Data publication
@@ -9,6 +12,7 @@
 	* Blockers
 	* data quality
 		* Data quality standards
+
 * Open Data
 	* Data Repositories, Google Datasets
 	* Open data on AWS
@@ -16,12 +20,18 @@
 	* Open Data
 	* Open Data discusison
 	* private data
+
+=== DBMS
+
 * data bases
 	* Data Strategies
 	* Converged Database
 	* Benefits of Converged Database
 	* coverged DB and workflow
-* cloud Native
+
+
+=== Cloud Native Data
+
 	* cloud native
 		* Cloud Native
 		* Cloud Optimized GeoTIFF
@@ -31,5 +41,7 @@
 	* Amazon data lake
 	* Object Stores
 	* ABCI design
-* Data Platoforms/Ecosystems
+
+=== Data Platforms and Ecosystems
+
 	* EO Platform, Datacubes

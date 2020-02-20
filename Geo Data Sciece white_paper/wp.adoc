@@ -5,7 +5,7 @@
 :lang: en
 :toc:
 :toc-placement!:
-:toclevels: 3
+:toclevels: 2
 :numbered:
 :sectanchors:
 :source-highlighter: pygments
@@ -19,7 +19,7 @@
 |Approval Date:   <yyyy-mm-dd>
 |Publication Date:   <yyyy-mm-dd>
 |External identifier of this OGC(R) document: http://www.opengis.net/doc/{doc-type}/{standard}/{m.n}
-|Internal reference number of this OGC(R) document:    YY-nnnrx
+|Internal reference number of this OGC(R) document:  20-001 
 |Category: OGC(R) White Paper
 |Editor:  George Percivall
 |===

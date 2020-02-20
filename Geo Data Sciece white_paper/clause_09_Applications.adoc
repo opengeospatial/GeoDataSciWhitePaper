@@ -1,16 +1,10 @@
-== Section Header
-//write text in as many clauses as necessary. Use one document or many, your choice!
-* Applications
-* Overview
+== Data Science Applications
+
+=== Overview
 	* Application Breakouts
 	* Edge Use Cases
-* Business and Sports
-	* Video Analytics Sports
-	* Video Analytics Hedge Funds
-	* Logistics
-	* Census QCEW
-	* Insurance
-* Natural Resources and Agriculture
+
+=== Natural Resources and Agriculture
 	* ML for AG
 	* Innundation Map and Analysis
 	* Biodiversity mapping
@@ -20,7 +14,8 @@
 	* natural resources and agriculture
 	* EO data for policy, e.g., Ag
 	* NASS Cropland
-* Urban digitial twin: Transportation
+
+=== Urban Digital Twin: Transportation
 	* Transporation is leading use case
 	* Urban Data Sci
 	* NVIDIA MEtropolis
@@ -38,7 +33,8 @@
 	* Community Scapes
 	* Infrasctructure modeling
 	* GeoAI Space Personalilzation
-* Emergency Management / Disaster Response
+
+=== Emergency Management / Disaster Response
 	* Most meaninful project
 	* Houston
 	* Florida Hurricane
@@ -48,17 +44,27 @@
 	* Hydro example
 	* Flood Mapping Ag
 		* QCEW hurricane maps
-* Health
+
+=== Health
 	* Health
 	* CDC  Public health
 	* Community Scapes
 	* environmental Public health
-* Intelligence
+
+=== Intelligence
 	* NGA workflow
 	* Data science craft was D&I
+
+=== Business and Sports
+		* Video Analytics Sports
+		* Video Analytics Hedge Funds
+		* Logistics
+		* Census QCEW
+		* Insurance
+
 * Open Questions
 	* Biggest Challenge
 	* Session 5 Summary
 * Recommendations
 	* Local Application
-	*  
+	*

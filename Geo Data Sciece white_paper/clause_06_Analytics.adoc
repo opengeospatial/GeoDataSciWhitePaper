@@ -1,28 +1,36 @@
-== Section Header
-//write text in as many clauses as necessary. Use one document or many, your choice!
-* Representation and analytics
+== Representation and Analytics
+
 * Analysis
 	* New in Geo Analytics
 	* Analytics types
-* visualization, maps and Aral statistics
+
+According to Merriam-Webster dictionary, analysis is the separation of a whole into its component parts, and analytics is the method of logical analysis.
+
+=== visualization, maps and Areal statistics
 	* Innundation Map and Analysis
-* statistics
+
+=== Geo Statistics
 	* Geo Statistics
-* temporal
+
+=== Temporal Analytics
+
 	* Space Time Patterns
 	* Trajectory Reconstruction
 	* Time and Space
-* CyberGIS
+
+=== CyberGIS
 	* CyberGIS Juypter for Geo analytics
 	* CyberGIS
 	* Geovisualization
 	* Hydro example Flood CyberGIS Blue Waters
-* Sci Computing, Notebooks, Python
+
+=== Scientific Computing, Notebooks, Python
 	* Lifecycle of a Scientific IDea
 	* Workflow with Jupyter
 	* Analytics and DS
 	* Notebooks - ESRI
 	* Data publication
 	* Analytics and DS
-* GPU accelerated Geo Analysis
+
+=== GPU accelerated Geo Analytics
 	* Visualization as Data Science
