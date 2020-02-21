@@ -15,7 +15,7 @@
 |===
 |{set:cellbgcolor:#FFFFFF}
 |[big]*Open Geospatial Consortium*
-|Submission Date: <yyyy-mm-dd>
+|Submission Date: <2020-02-28>
 |Approval Date:   <yyyy-mm-dd>
 |Publication Date:   <yyyy-mm-dd>
 |External identifier of this OGC(R) document: http://www.opengis.net/doc/{doc-type}/{standard}/{m.n}
@@ -27,6 +27,7 @@
 [cols = "^", frame = "none"]
 |===
 |[big]*{titletext}*
+|DRAFT FOR REVIEW
 |===
 
 [cols = "^", frame = "none", grid = "none"]
@@ -96,6 +97,8 @@ include::clause_08_Models.adoc[]
 include::clause_09_Applications.adoc[]
 
 include::clause_10_Trends.adoc[]
+
+include::clause_11_Recommendations.adoc[]
 
 <<<
 //use annexes as needed

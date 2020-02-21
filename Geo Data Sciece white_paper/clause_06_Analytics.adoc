@@ -12,6 +12,8 @@ According to Merriam-Webster dictionary, analysis is the separation of a whole i
 === Geo Statistics
 	* Geo Statistics
 
+Alternatively, the methods of data exploration can be seen as emerging from statistics and a fifty-year history of Data Science [David Donoho].  Success has many parents.
+
 === Temporal Analytics
 
 	* Space Time Patterns
