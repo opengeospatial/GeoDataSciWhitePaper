@@ -1,40 +1,49 @@
 == Data Science Applications and Ethics
 
-This Clause addresses these topics:
+This clause provides examples of the application of geospatial data science.  The objective is to show the value of the data and tools discused in earlier sections.  With the application of the data science technology, ethical issues emerge.
 
-=== Overview
-	* Application Breakouts
-	* Edge Use Cases
+This Clause contains these sections:
+
+** Natural Resources and Agriculture
+** Urban Data Science
+** Emergency Management / Disaster Response
+** Health
+** Intelligence
+** Business and Sports
+** Data Ethics
 
 === Natural Resources and Agriculture
-	* ML for AG
-	* Innundation Map and Analysis
-	* Biodiversity mapping
-	* ML for species distribution
-	* Agriculture
-	* Agriculture
-	* natural resources and agriculture
-	* EO data for policy, e.g., Ag
-	* NASS Cropland
 
-=== Urban Digital Twin: Transportation
-	* Transporation is leading use case
-	* Urban Data Sci
-	* NVIDIA MEtropolis
-	* AI City Challenge
-	* DoT Volpe Waze pilot
-	* Transportation DoT
-	* HD Maps
-	* Trans pilot insights
-	* City Data and Predictive Analytics
-		* Transportation
-	* SmartAirLA
-	* ShakeAlert LA
-	* Mobility
-	* Clean Streets
-	* Community Scapes
-	* Infrasctructure modeling
-	* GeoAI Space Personalilzation
+Recall
+- Crop inundation example from the Geographical Statistics clause
+- the Biodiversity example in the Machine Learning Clause
+
+The motivation for the Copernicus program to support European policies. One of the major European policy elements that has benefited from the Sentinel data is the Common Agricultural Policy. CAP is the single biggest fiscal budget item in Europe at 43% of the total budget of the European Union.  Mainly it pays subsidies to make agriculture economically viable for the farmers. But it also has elements for enforcign environmental policies and sustainable agriculture. The CAP compliance checks for receiving subsidies  is traditionally done through interpretation of a very high resolution imagery for a 5% sample per country and then for a smaller percentage of those parcels there is spot checks in in addition to the VHR imagery interpretation to determine the compliance.  This is complicated and inefficient. Fully automated monitoring based on Sentinel time series and data analytic tools basically from the data science community is a big step.  The Figure shows the results of this new process.
+
+.Machine Learning supported Agriculture policy compliance
+image:figures/FIG09.01_EuropeanAgExample.png[500,500]
+
+
+=== Urban Data Science
+
+The City of Los Angeles has several data science projects improving the lives of urban residents, as described by Jeanne Holm, City for Los Angeles:
+
+** SmartAirLA/Predicting What We Breathe collects data from satellites airborne instruments and ground data sensors from  Internet of Things across the city of Los Angeles and across the region. The data is federated in a way that helps to use machine learning to create predictive analytics about the quality of air. LA is partnering with other mega cities around the planet to see patterns can be evoked from satellite data to understand things that are happening on the ground. In Mumbai for example where they may not have as many ground data sensors, it's a pretty interesting experiment.
+** ShakeAlert LA is an earthquake early warning system. It gives you up to minutes warning that you are about to feel shaking from an earthquake. In Los Angeles and so we have over a million users and they partner with the USGS ShakeAlert system which has sensors up and down the west coast. The app technology and  latency and the network was tricky, but it's a lot about behavioral nudges and behavioral science to get people to be safer during an earthquake.
+
+https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/[NVIDIA Metropolis] create IoT applications, from the edge to the cloud, for retail,  inventory management, traffic engineering in smart cities.  Milind Naphade, NVIDIA Metropolis, presented at the LP_DS Summit about their system for workloads that run at the edge for video data. Processing video for traffic monitoring and analytics detects objects at 50 objects per frame that's 1.5 million messages per second. With video plus geospatial  every object that detected is labeled with GPS coordinates, we convert the video into the real world map based understanding. This for example allows for anomaly detection, e.g., where a vehicle was detected driving in the wrong lane.  This would allow for real time response like switching the traffic lights to red, police vehicle  escorting the vehicle off of the road, etc.
+
+.NVIDIA Smart Cities
+image:figures/FIG09.02_nvidia-ai-smart-cities.png[500,500]
+
+Ed Strocko, US DoT, provided a focus on transportation safety. Over 36,000 people die on highways every year. This is way too high.  The five examples in the Figure are from a data visualization organized by DoT.  The Central Florida example used machine learning to do short-term predictive analytics on where a crash is going to occur; where do we think we need to be focusing our attention changing the variable speed limit signs; giving the infrastructure operators some information. Ford and Arity were looking at the behavioral information coming off the cars; hard stops, hard starts, people using cell phones and using some data science in there to get that get down that number of fatalities. These developments need to continue until we can really achieve that that vision of a much safer road with autonomous and connected vehicles
+
+.US DoT Transportation Safety Data Visualization Challenge
+image:figures/FIG09.03_US_DoT_TransportationSafety.png[500,500]
+
+To support many of the urban use cases, High Definition (HD) Maps are needed. Standardizing HD maps is contrasted with today's mapping systems.  Information for autonomous vehicle needs to be HD. Standard for HD map data in a format that can be understood by not just the cities but software in general and the other scientists at large. We need to look at the policy comes together. But it's definitely the collaboration across the spaces there to get to something.  Jeremy Morley, Ordannce Survey UK, discussed how from a national mapping agency perspective as well for the UK, there's interesting questions also as to whether when we talk about HD roads or just interested in that CAV market.  It's not just a single map that each of fleets will want.  And how well does it serve other purposes as well whether it's the IOT market or simply local authorities better maintaining their assets. There's a way to go to accumulate enough evidence as to what is a good product or standard in this space.
+
+
 
 === Emergency Management / Disaster Response
 	* Most meaninful project

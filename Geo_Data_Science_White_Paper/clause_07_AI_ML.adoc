@@ -57,7 +57,10 @@ Challenges with Machine Learning are reflected in these quotes from the workshop
 ** "The biggest challenge is lack of data. Some companies have the resuorces to acquire the data they need to make progress but and there are small companies along with niche applications that don't have sufficient data.  Ecosystems are developing to gather enough data to gain confidence in decisions." - Anand Kannan
 ** "Benchmarks data sets with labels are needed to develop the systems so end users can actually start having confidence that this really works" - Milind Naphade
 ** "There is a lack of geospatial training data catalogs. This leads to biased or incorrect results and the inability to capture wide range of possible outcomes in space and time" - Hamed Alemohammad
+** "A really good vehicle detection model in the Midwest US may look very different than a really good vehicle detection and tracking model in Shanghai or Beijing or Mumbai." - Milind Naphade, NVIDIA Metropolis
 ** "You can create all the models you want all day long and then all of a sudden something real happens and you realize that you that the models aren't what you needed" - Nils Lahr
+
+
 
 
 === Training Sets and Benchmarks
@@ -96,7 +99,7 @@ The previous sections have discussed the hype and challenges associated with AI 
 
 === Look forward to the future of AI
 
-Yolanda Gil recommended that we consider https://cra.org/ccc/wp-content/uploads/sites/2/2019/08/Community-Roadmap-for-AI-Research.pdf[A 20-Year Community Roadmap for Artificial Intelligence Research in the US]. Decades of research in AI have produced formidable technologies that are providing immense benefit to industry, government, and society. AI systems can now translate across multiple languages, identify objects in images and video, streamline manufacturing processes, and control cars. The deployment of AI systems has not only created a trillion-dollar industry that is projected to quadruple in three years, but has also exposed the need to make AI systems fair, explainable, trustworthy, and secure. Future AI systems will rightfully be expected to reason effectively about the world in which they (and people) operate, handling complex tasks and responsibilities effectively and ethically, engaging in meaningful communication, and improving their awareness through experience.  
+Yolanda Gil recommended that we consider https://cra.org/ccc/wp-content/uploads/sites/2/2019/08/Community-Roadmap-for-AI-Research.pdf[A 20-Year Community Roadmap for Artificial Intelligence Research in the US]. Decades of research in AI have produced formidable technologies that are providing immense benefit to industry, government, and society. AI systems can now translate across multiple languages, identify objects in images and video, streamline manufacturing processes, and control cars. The deployment of AI systems has not only created a trillion-dollar industry that is projected to quadruple in three years, but has also exposed the need to make AI systems fair, explainable, trustworthy, and secure. Future AI systems will rightfully be expected to reason effectively about the world in which they (and people) operate, handling complex tasks and responsibilities effectively and ethically, engaging in meaningful communication, and improving their awareness through experience.
 
 In the near term we conclude this clause with the Keys to Success for Machine Learning presented by Regan Smyth, based on her NatureServe projects:
 
