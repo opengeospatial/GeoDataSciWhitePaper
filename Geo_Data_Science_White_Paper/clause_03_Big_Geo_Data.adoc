@@ -1,6 +1,6 @@
-== Big Geospatial Data
+== Data: Big Geospatial Data
 
-This section addresses three topics related to big data for data science.
+This Clause addresses three topics related to big data for data science.
 ** Big Data with Location
 ** Big Data Software Stack
 ** Big Geo Data Use Cases
@@ -47,7 +47,9 @@ image::figures/FIG03.03_BirthBigDataStack.png[FIG03.03_BirthBigDataStack.png,500
 
 At the core of the big data stack was Apache Hadoop, which started in 2006 as a spin-off from Apache Nutch, a web crawler that stemmed from Apache Lucene, the famous open source search engine. The inspiration for this project came from the Google File System and a distributed processing framework called MapReduce. These two components combined the extreme flexibility and scalability necessary to develop distributed batch applications in a simple way. 
 
-In later clauses of this white paper we will see how the Big Data Stack is important to data management (Clause 5), geospatial analytics (Clause 6), and MAchine Learning (Clause 7).
+The use of Big Data Stack software for geospatial applications has been the theme of the Geospatial Track at the annual Apache Conference. The Apache Software Foundation has been a focal point for development of the pages in the big data stack. These big data software packages have been extended with geospatial functionality and presented in the ApacheCon geospatial track.  These items were presented in the https://www.ogc.org/otherevents/apachecon-2019-geospatial-track[ApacheCon 2019 Geospatial Track]: GeoSpark built on Apache Spark, Apache Science Data Analytics Platform, GeoMesa on top of Accumulo, HBase, Cassandra, Geospatial Indexing and Search at Scale with Apache Lucene, Realtime Geospatial Analytics with GPUs, RAPIDS, and Apache Arrow
+
+In later clauses of this white paper we will see how the Big Data Stack is important to data management (Clause 5), geospatial analytics (Clause 6), and Machine Learning (Clause 7).
 
 
 === Big Geo Data Use Cases

@@ -1,7 +1,6 @@
+== Data: Data Scientists, Teams, Process
 
-== Data Scientists, Teams, Process
-
-This section addresses three topics related to people and process for data science.
+This Clause addresses three topics related to people and process for data science.
 
 ** Data Scientists and multi-disciplinary teams
 ** The role of tools: human augmentation

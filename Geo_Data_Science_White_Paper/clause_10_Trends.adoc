@@ -1,5 +1,7 @@
 == Emerging Trends
 
+This Clause addresses these topics:
+
 === Edge Computing
 	* Networks and IoT
 		* 5G Cellular

@@ -1,5 +1,6 @@
 == Models and Decisions
 
+This Clause addresses these topics:
 
 === Knowledge Powered Data Science
 
@@ -27,3 +28,6 @@
 	* Model Integration
 	* MINT
 	* Model Data Formats
+
+
+==== Recommendations

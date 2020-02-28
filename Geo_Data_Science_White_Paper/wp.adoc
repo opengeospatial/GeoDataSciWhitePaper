@@ -5,7 +5,7 @@
 :lang: en
 :toc:
 :toc-placement!:
-:toclevels: 2
+:toclevels: 1
 :numbered:
 :sectanchors:
 :source-highlighter: pygments

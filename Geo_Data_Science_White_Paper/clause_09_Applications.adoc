@@ -1,4 +1,6 @@
-== Data Science Applications
+== Data Science Applications and Ethics
+
+This Clause addresses these topics:
 
 === Overview
 	* Application Breakouts
@@ -62,9 +64,31 @@
 		* Census QCEW
 		* Insurance
 
+
+
 * Open Questions
 	* Biggest Challenge
 	* Session 5 Summary
 * Recommendations
 	* Local Application
 	*
+
+
+	=== Data Ethics
+			* bias
+				* Session 4 Summary
+			* data ethics
+				* Data Ethics defined
+				* Ethics examples
+				* City Data and Predictive Analytics
+				* Ethics
+				* Blockers
+				* STokes summary
+				* data pedigree
+				* Data Ethics references
+				* Data Sharing and Ethics
+				* Session 5 Summary
+			* Implications
+				* implications
+			* privacy
+				* Data Sci actions to implement
