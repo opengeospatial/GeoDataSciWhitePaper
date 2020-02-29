@@ -13,7 +13,7 @@ The LP_DS Summit considered the explosive availability of data about nearly ever
 A summary of the topics discussed in the LP_DS is shown in the figure:
 
 .Geospatial Data Science
-image::figures/FIG01.01_GDS_Mindmap.png[500,500,role="center"]
+image::figures/FIG01.01_GDS_Mindmap.png[600,600,role="center"]
 
 This White Paper is organized in these sections:'
 
@@ -22,12 +22,12 @@ This White Paper is organized in these sections:'
 ** Data Scientists, Teams, Process (Clause 4)
 ** Data Management (Clause 5)
 * Tools
-** Representation and analytics (Clause 6)
+** Geospatial Representations and Analytics (Clause 6)
 ** AI and Machine Learning (Clause 7)
 ** Models and Decisions (Clause 8)
-* Data Science Applications (Clause 9)
+* Data Science Applications and Ethics (Clause 9)
 * Emerging Trends (Clause 10)
 
-The Emerging Trends are: Edge Computing, Heterogeneous Computing, and Data Ethics.
+The Emerging Trends are: Edge Computing and Heterogeneous Computing
 
 The Annex provides information about the summit including the agenda.

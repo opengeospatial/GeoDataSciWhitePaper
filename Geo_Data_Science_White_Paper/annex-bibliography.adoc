@@ -3,27 +3,6 @@
 [[Bibliography]]
 = Bibliography
 
-[NOTE]
-.Example Bibliography (Delete this note).
-===============================================
-The TC has approved Springer LNCS as the official document citation type.
-
-Springer LNCS is widely used in technical and computer science journals and other publications
-
-* For citations in the text please use square brackets and consecutive numbers: [1], [2], [3]
-
-– Actual References:
-
-[n] Journal: Author Surname, A.: Title. Publication Title. Volume number, Issue number, Pages Used (Year Published)
-
-[n] Web: Author Surname, A.: Title, http://Website-Url
-
-===============================================
-
-((( Example )))
-[[OGC2015]]
-[1] OGC: OGC Testbed 12 Annex B: Architecture. (2015).
-
 
 [1]	NIST Big Data interoperability Framework (NBDIF), Volume 1: Definitions, https://bigdatawg.nist.gov/V3_output_draft_docs.php
 
@@ -32,16 +11,29 @@ Springer LNCS is widely used in technical and computer science journals and othe
 [3]	Hey, Tony and Tansley, Stewart and Tolle, Kristin, The Fourth Paradigm: Data-Intensive Scientific Discovery, Published by Microsoft Research, October 2009 ISBN: 978-0-9825442-0-4
 
 [4]	Realizing the Potential of Data Science - ACM Berman 2018.  Https://dl.acm.org/citation.cfm?Id=3188721
+
 [5]	REALIZING THE POTENTIAL OF DATA SCIENCE - NSF.  Https://www.nsf.gov/cise/ac-data-science-report/ciseacdatasciencereport1.19.17.pdf
+
 [6]	50 years of Data Science, David Donoho, 2015
+
 [7]	Foundations of Data Science, Avrim Blum, John Hopcroft, and Ravindran Kannan, January 2018
+
 [8]	Theory-guided Data Science: A New Paradigm for Scientific Discovery from Data.  Karpatne, et.al.  https://arxiv.org/abs/1612.08544
+
 [9]	“Geospatial Data and Key Characteristics of Geospatial Data Analysis and Science: The way forward, SciDataCon2016,  Session Organisers: Luis Bermudez , Ingo Simonis. https://www.scidatacon.org/2016/sessions/99/
+
 [10]	Wang, Shaowen “A CyberGIS Framework for the Synthesis of Cyberinfrastructure, GIS, and Spatial Analysis,” Annals of the Association of American Geographers, 2010/06/25, doi: 10.1080/00045601003791243
+
 [11]	“Transdisciplinary Foundations of Geospatial Data Science.” Xie, et.al., University of Minnesota December 5, 2017
+
 [12]	Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. 2017. ImageNet classification with deep convolutional neural networks. Commun. ACM 60, 6 (May 2017), 84-90. DOI: https://doi.org/10.1145/3065386
+
 [13]	D. Lunga, et.al., "Domain-Adapted Convolutional Networks for Satellite Image Classification: A Large-Scale Interactive Learning Workflow," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 3, pp. 962-977, March 2018.
+
 [14]	doi: 10.1109/JSTARS.2018.2795753
+
 [15]	“Deep Learning for Classification Tasks on Geospatial Vector Polygons,” Rein van 't Veer, Peter Bloem, Erwin Folmer.   https://arxiv.org/abs/1806.03857
+
 [16]	Yolanda Gil, et.al. 2018. Intelligent systems for geosciences: an essential research agenda. Commun. ACM 62, 1 (December 2018), 76-84. DOI: https://doi.org/10.1145/3192335
+
 [17]	L. Wang, B. Guo and Q. Yang, "Smart City Development With Urban Transfer Learning" in Computer, vol. 51, no. 12, pp. 32-41, 2018.  doi: 10.1109/MC.2018.2880015

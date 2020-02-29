@@ -1,33 +1,29 @@
 [big]*i.     Abstract*
 
-<Insert Abstract Text here>
+This OGC White Paper describes Geospatial Data Science based on the Location Powers: Data Science Summit of November 2019.  The white paper provides a description of the presentations and discussions of the summit along with recommendations for OGC activities to advance the field of Geospatial Data Science.
 
 [big]*ii.    Keywords*
 
 The following are keywords to be used by search engines and document catalogues.
 
-ogcdoc, OGC document,  <tags separated by commas>
-
-Data Science, Analytics, Artificial Intelligence, Machine Learning, Edge Computing, Python, Juypter, Knowledge-based Models, Data Management, IT Ethics,	Heterogenous computing
-
+ogcdoc, OGC document, Data Science, Analytics, Artificial Intelligence, Machine Learning, Edge Computing, Python, Juypter, Knowledge-based Models, Data Management, IT Ethics,	Heterogenous computing
 
 [big]*iii.   Preface*
 
-[NOTE]
-====
-Insert Preface Text here. Give OGC specific commentary: describe the technical content, reason for document, history of the document and precursors, and plans for future work. >
-Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.
+Geospatial Data Science is defined in this white paper as “The art and craft of people leveraging technology to create value out of data using location and time.”  The components of geospatial data science are data, tools, applications and emerging trends.  The data component is composed of discussions about big geospatial data; data scientists, teams and process; and data management.  The tools component is composed of discussions about geospatial representations and analytics, the application of machine learning to geospatial, and knowledge-based models to support decision making.
 
-Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.
-====
+An objective of the white paper to serve as a basis for the promotion of geospatial data science within and external to OGC.  OGC has a role to conduct activities that will advance innovation and standardization in geospatial data science.  The overall objective is to enable beneficial use of geospatial information in humanities critical decisions.
+
 [big]*iv.    Submitting organizations*
 
 The following organizations submitted this Document to the Open Geospatial Consortium (OGC):
 
-Organization name(s)
+(Organization name(s) from the Location Powers: Data Summit to be added based on approval after reviewing the document.  Notify George Percivall to add your organization to this list.)
 
 [big]*v.     Submitters*
 
 All questions regarding this submission should be directed to the editor or the submitters:
 
-Name  Affiliation
+George Percivall,  Open Geospatial Consortium
+
+(Individuals who contributed to the Location Powers summit which contributed to this document will be added as they agree to the content.  Notify George Percivall to add your name to this list.)

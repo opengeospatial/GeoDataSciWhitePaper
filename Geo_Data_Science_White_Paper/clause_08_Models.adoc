@@ -1,4 +1,4 @@
-== Models and Decisions
+== Tools: Models and Decisions
 
 This clause addresses how knowledge-powered data science can improve decision making.
 

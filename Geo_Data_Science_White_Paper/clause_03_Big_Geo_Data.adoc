@@ -1,6 +1,7 @@
 == Data: Big Geospatial Data
 
 This Clause addresses three topics related to big data for data science.
+
 ** Big Data with Location
 ** Big Data Software Stack
 ** Big Geo Data Use Cases

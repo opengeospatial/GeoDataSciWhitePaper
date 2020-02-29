@@ -28,6 +28,7 @@
 |===
 |[big]*{titletext}*
 |DRAFT FOR REVIEW
+|(Comments to percivall@ogc.org by April 25, 2020)
 |===
 
 [cols = "^", frame = "none", grid = "none"]
