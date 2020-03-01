@@ -19,12 +19,12 @@ image:figures/FIG10.01_Edge_Infrastructure.png/[500,500]
 The Edge is also important because its location and presence over time.  The sensing and actuation associated with IoT devices at the edge can make use of the location.  The data obtained from sensing at the edge has a location content that may be useful immediately in edge computing and the the location can be attached to the data as it is distributed to the cloud and other devices.  Philippe Cases's surveys indicates that much of the sensing at the edge is video and that of all the data at the edge, 75% of the data is actually time series.
 
 .Key use cases for processing at the edge
-image:/Geo_Data_Science_White_Paper/figures/FIG10.02_Edge_Use_Cases.png[500,500]
+image:figures/FIG10.02_Edge_Use_Cases.png[500,500]
 
 Marc Armstrong discussed data from the edge as "Fast Data."  Fast Data streams are driving computational complexity that needs to be addressed by experimental architectures and new analytic methods.  The roots of fast data come from research to temporal and dynamic GIS. (See Clause 6). We now have fast streaming data that is orders of magnitude faster. Experimental architectures to develop new methods are needed to do analysis of large and fast data and time frames.  Challenges of fast streaming data include, unknown sample size, non-stationarity, and algorithmic complexity in space and time.  Techniques such as reservoir sampling and approximate computing are suggested by Marc Armstrong for developing fast data analytics.
 
 .IoT sensors Create Fast Data Streams
-image:/Geo_Data_Science_White_Paper/figures/FIG10.03_Fast_Data.png[600,600]
+image:figures/FIG10.03_Fast_Data.png[600,600]
 
 Coordinated observations is a powerful use case based on the emerging architecture of IoT sensing and actuation, Edge Computing, Fast Streaming Data, 5G communications and cloud computing.  Observations by an IoT sensor used to trigger subsequent computing, additional observations and subsequent actions all done in the distributed network without human observation.  This observation-processing-actuation workflow in the network suggests a powerful reusable pattern:
 
@@ -41,7 +41,7 @@ This discussion on Edge Computing at LP_DS can be used to update the OGC Tech Tr
 Marc Armstrong presented about the opportunities of Heterogenous Computing to geospatial data science.   https://queue.acm.org/detail.cfm?id=3038873[Heterogeneous computing] is a scheme in which the different computing nodes have different capabilities and/or different ways of executing instructions. In heterogeneous computing, the cores are different.   The figure shows a heterogeneous system with multi-core, GPU, FPGA, etc. We have seen use of GPUs earlier (Clause 6) for accelerating geospatial analytics.  Tensor Processing units are an another computing architecture that has value to geospatial.
 
 .Generic Heterogeneous System
-image:/Geo_Data_Science_White_Paper/figures/FIG10.04_HeterogeneousComputing.png[500,500]
+image:figures/FIG10.04_HeterogeneousComputing.png[500,500]
 
 Some parts of geospatial problems are addressed with different computing architectures.  We can anticipate developing spatial middleware that would align the characteristics of geospatial algorithms to particular types of Hardware environments.  OGC is already working with the Khronos Group for geospatial computing based on GPUs.  Working with the http://www.hsafoundation.com/[Heterogeneous System Architecture (HSA) Foundation] in a similar fashion could bring additional improvements in geospatial data analytics.
 
@@ -53,7 +53,7 @@ Heterogenous Computing will be added to the OGC Technology Forecast based on the
 OGC conducts a forecasting activity for geospatial technology.  The forecasts provide early identification of disruptive technologies; supports discovery-driven planning; and drives OGC member decisions regarding geospatial innovations.  The figure shows the a summary of the process.
 
 .OGC Technology Forecasting
-image:/Geo_Data_Science_White_Paper/figures/FIG10.05_OGC_Tech_Trends.png[500,500]
+image:figures/FIG10.05_OGC_Tech_Trends.png[500,500]
 
 The concept of the Location Powers: Data Science Summit and for some of the other Location Powers summits came from analysis in the OGC Technology Forecasting program.  The Forecast will be updated based on the results of LP_DS and a will drive discussion about the focus of future Location Powers events.
 
