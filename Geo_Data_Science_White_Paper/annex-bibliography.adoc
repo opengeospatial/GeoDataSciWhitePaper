@@ -3,6 +3,7 @@
 [[Bibliography]]
 = Bibliography
 
+This bibliography was developed to support planning for the workshop.
 
 [1]	NIST Big Data interoperability Framework (NBDIF), Volume 1: Definitions, https://bigdatawg.nist.gov/V3_output_draft_docs.php
 

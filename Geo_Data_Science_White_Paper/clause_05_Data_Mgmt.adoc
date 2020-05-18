@@ -1,11 +1,13 @@
 == Data: Data Management
 
-This Clause addresses three topics related to people and process for data science.
+This Clause addresses topics related to people and process for data science.
 
 ** Data Management Policies
 ** Data Base Management Systems
 ** Cloud Native Data and Processing
 ** Geospatial Data Platforms and Ecosystems
+** Recommendations
+
 
 
 === Data Management Policies
@@ -24,7 +26,7 @@ Quotes from LP_DS regarding data agreements:
 
 Quotes from LP_DS regarding dataset hosting and clearinghouses:
 
-** "In  cases were a researchers received federal grant money and they are supposed to publish data openly,  but the challenge that you briefly mention is the incentive and resources that they don't have so they do the research everything ready results are published in a paper at the end"
+** "In  cases where researchers received federal grant money and they are supposed to publish data openly,  but the challenge that you briefly mention is the incentive and resources that they don't have so they do the research everything ready results are published in a paper at the end"
 ** "The PI and the student or postdoc don't have the incentives to put it in a public repo or documented or don't have the technical resources. Usually they're more of a scientist than an engineer. I think one thing that would be helpful is policies and resources in those grants to help grantees to share their data openly beyond just a policy but on the implementation side"
 ** "I think the private sector needs to step up and make data accessibility and data quality an important issue and be able to be part of this research community in terms of providing good high quality data for very important issues."
 ** "For federal data, data.gov serves the purpose of a clearinghouse."
@@ -41,9 +43,9 @@ Other issues about data sharing policies included discussion of data privacy and
 
 Access to training data sets for machine learning is discussed in Clause 7.
 
-While not explicitly mentioned, the FAIR Principles capture much of the discussion about data management policies during LP_DS.  a recent issue of the https://www.mitpressjournals.org/toc/dint/current[Data Intelligence journal] addressed the history, progress and possible futures around the FAIR Principles.  OGC lists the FAIR Principles in its mission statement.
+While not explicitly mentioned, the FAIR Principles capture much of the discussion about data management policies during LP_DS.  A recent issue of the https://www.mitpressjournals.org/toc/dint/current[Data Intelligence journal] addressed the history, progress and possible futures around the FAIR Principles.  OGC lists the FAIR Principles in its mission statement.
 
-Working with the Research Data Alliance to develop data management policy topics should be considrered  https://www.rd-alliance.org/group/research-data-repository-interoperability-wg/outcomes/research-data-repository-0
+Working with the https://www.rd-alliance.org/group/research-data-repository-interoperability-wg/outcomes/research-data-repository-0[Research Data Alliance] to develop data management policy topics should be considered
 
 === Data Management Strategies and Query Languages
 
@@ -60,7 +62,7 @@ image::figures/FIG05.02_QueryLanguages.png[500,500]
 
 === Cloud Native Data and Processing
 
-As described in Clause 3, an innovative stack of software and interfaces was developed to address big data.  The Big Data Platform was grew with the development of Cloud Computing.  Several discussions in LP_DS discussed advantages of a "cloud-native" strategy for handling big geo data.  Mark Korver, Amazon AWS, described the growth in size and functionality provided by cloud computing.  AWS hosts over two trillion objects and petabyte scale.  Object stores offer not only data storage but the bigger advantage is having the data and computing in close proximity.  Satoshi Sekiguchi, AIST, spoke about the key features of the cloud native strategy for their AI Bridging Cloud Infrastructure (ABCI) system and how it supports the sharing, distribution and operation of AI and Machine Learning on large data stores.
+As described in Clause 3, an innovative stack of software and interfaces was developed to address big data.  The Big Data Platform was grew with the development of Cloud Computing.  Several discussions in LP_DS discussed advantages of a "cloud-native" strategy for handling big geo data.  Mark Korver, Amazon AWS, described the growth in size and functionality provided by cloud computing.  AWS hosts over two trillion objects.  Object stores offer not only data storage but the bigger advantage is having the data and computing in close proximity.  Satoshi Sekiguchi, AIST, spoke about the key features of the cloud native strategy for their AI Bridging Cloud Infrastructure (ABCI) system and how it supports the sharing, distribution and operation of AI and Machine Learning on large data stores.
 
 To support Cloud-Native strategy several specification activities were discussed as needing standardization activities: Spatio-Temporal Asset Catalog (STAC), Cloud-optimized GeoTIFF, HDF for the cloud, ZARR and X Array, and OGC APIs.
 
@@ -73,15 +75,16 @@ Lauren Bennett, Esri, conclude one of the discussions on this topic with:  "I gu
 
 Multiple organizations are defining platforms for geospatial data science on top of cloud computing and data stores. ESA's EO Platform Ecosystem and several other approaches have been discussed in the https://www.ogc.org/projects/groups/eoexplatform[OGC EO Exploitation Platform Domain Working Group].  Emergence of community practices to be used in common is an objective of the working group.
 
-Patrick Griffiths, ESA, presented an EO Platform Ecosystem which depicts the earth observation platform ecosystem. The Platform builds on distributed storage environments co-located with distributed compute environments.  Top two layers are the exploitation tier consisting of a platform services layer as well as an exploitation layer.  The Platform services layer includes data cubes and analytic environments to take advantage of all of this data.  There is much discussion about "data cubes", but agreement on the need to access the data without having to worry about pre-processing data management which often took up to 70 or 80 percent of the earth observation scientists time.
+Patrick Griffiths, ESA, presented an EO Platform Ecosystem which depicts the earth observation platform ecosystem. The Platform builds on distributed storage environments co-located with distributed compute environments.  Top two layers are the exploitation tier consisting of a platform services layer as well as an exploitation layer.  The Platform services layer includes data cubes and analytic environments to take advantage of all of this data.  There is much discussion about "data cubes", but there is agreement on the need to access the data at the per-pixel level without having to worry about pre-processing and on the need for data management which often took up to 70 or 80 percent of the earth observation scientist's time.
 
 .EO Platform Ecosystem
 image::figures/FIG05.03_EO_PlatformEcosystem.png[700,700]
 
-==== Recommendations
+=== Recommendations
 
 ** Define OGC Community Practices for data sharing agreements including how to find data sets based on agreement of interest.
 ** Apply the FAIR principles to data management policies issues identified for geospatial data.
 ** OGC to support GQL development, e.g., by providing geospatial use cases and sample queries for linked spatial data.
 ** Advance a slate of cloud-native standards for geospatial data.
+** Develop and publish an OGC Community Practice for Geospatial Coverage Data Cubes.
 ** Develop and publish an OGC Community Practice for EO Exploitation Platform.

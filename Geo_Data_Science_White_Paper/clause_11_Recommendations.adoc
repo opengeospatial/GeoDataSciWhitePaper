@@ -1,6 +1,6 @@
 == OGC activities on Geospatial Data Science
 
-An objective of the Location Powers series is to identify OGC activities based on the outcomes and recommendations of the summit.  This Clause identifies potential OGC activities in three areas:
+An objective of the Location Powers series is to identify OGC activities based on the outcomes and recommendations of the summit.  In addition to the recommendations listed in previous clasues, this clause identifies potential OGC activities in three areas:
 
 ** OGC Program Activities
 ** External Coordination on Standards
@@ -21,11 +21,6 @@ An objective of the Location Powers series is to identify OGC activities based o
 ** Tech Trends:
 *** update mindmap and priority trends
 *** Plan for Location Powers 2020 summit based on results of LP_DS
-
-
-External Coordination
-Reach out to liaisons
-Location Powers 2020
 
 
 === External Coordination on Standards

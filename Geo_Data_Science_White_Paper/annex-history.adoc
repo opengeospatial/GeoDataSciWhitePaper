@@ -6,4 +6,5 @@
 |===
 |Date |Release |Editor | Primary clauses modified |Description
 |2020-02-28 |0.1 |G. Percivall |all |initial version
+|2020-05-20 |0.2 |G. Percivall |numerous |editorial updates based on participant reviews
 |===

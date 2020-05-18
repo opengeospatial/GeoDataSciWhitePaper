@@ -1,15 +1,17 @@
 == Data: Data Scientists, Teams, Process
 
-This Clause addresses three topics related to people and process for data science.
+This Clause addresses topics related to people and process for data science.
 
 ** Data Scientists and multi-disciplinary teams
 ** The role of tools: human augmentation
 ** Data Science Process
 ** Training and Institutionalization
+** Recommendations
+
 
 === Data Scientists and Multi-Disciplinary Teams
 
-To be effective, Data Scientists must work with multi-disciplinary teams.  The teams need to include individuals expert in the domain of study or application.  Data Scientists cannot be effective by applying generic data science tools without tuning, interpretation, and guidance from a team that provides broad understanding of the domain area.
+To be effective, Data Scientists must work with multi-disciplinary teams.  The teams need to include individuals expert in the domain of study or application.  Data Scientists cannot be effective by applying generic data science tools without tuning, interpretation, and guidance from a team that provides broad understanding of the domain area.  Context of the domain is needed in order that the tools are used accurately.
 
 Several quotes are representative of the LP_DS discussions:
 
@@ -17,6 +19,7 @@ Several quotes are representative of the LP_DS discussions:
 ** “I want them to be respectful and understanding of the scope that storytellers bring, what geospatial experts bring, what policymakers bring”
 ** “Going in as a data-scientist-with-the-answers was often counterproductive” -  Regan Smyth, NatureServe
 ** “Running models but not understanding the drivers and whether data science can help can be misleading” - discussion group
+** "Data scientists don’t learn to deploy and scale" - Underlining that their expertise alone is insufficient to solve all challenges facing companies and researchers today (such as cloud engineering).
 
 The role of geospatial experts in the team was discussed as represented by these quotes:
 
@@ -65,16 +68,17 @@ image::figures/FIG04.03_Azure_data_sci_process.png[500,500]
 
 === Training and Institutionalization
 
-To support institutionalization of geospatial data science, data scientists need training and education and organizations need to persist the best practices and standards that emerge from successful projects.  Several
+To support institutionalization of geospatial data science, data scientists need training and education and organizations need to persist the best practices and standards that emerge from successful projects.
 
 * https://gsi.cigi.illinois.edu/[The Geospatial Software Institute concept study] as presented at LP_DS by Anand Padmanabhan, University of Illinois, was a US National Science Foundation sponsored study to conceptualize GSI as a long-term hub of excellence in geospatial software to serve diverse research and education communities. The CyberGIS center at UIUC led the conceptualization project that include key aspects of geospatial data science. The CyberGIS Summer school provides education and training for indviduals learning geospatial data science.
 * https://dsf.lacity.org/[The Data Science Foundation] as presented at LP_DS by Jeanne Holm, City of Los Angeles, is a partnership between The City of LA with local colleges and universities; as a resource in data science and data-driven decision making for City Government.
 * https://www.nga.mil/Careers/Pages/Data-Corps.aspx[The NGA Data Corps] is a targeted initiative to support Data Scientists in solving complex, high-stakes data problems; teaching data skills to colleagues; and education to ensure keeping pace with the latest tools, techniques and technology.
 * https://www.fedscoop.com/interview-michael-conlin-talent-challenge/[The Defense Digital Service] looks to both attract and create talent over time to meld tricky domain expertise with data science training.  Megan Furman, DDS, spoke of her team as a "Swat Team of Nerds."
 * https://www.airc.aist.go.jp/en/intro/[AIST Artificial Intelligence Research Center (AIRC)] as presented at LP_DS by Satoshi Sekiguchi, offers a “venue” for open innovation that connects the proprietary data and expertise in machine learning, simulation technology, natural language processing, and development of computational architecture for AI. AIRC is a public organization that coordinates AI technology by promoting the sharing of data that cannot be made public by businesses and universities.
+* https://blogs.esa.int/philab/[ESA Φ-lab] is part of the ESA Earth Observation (EO) Programme’s Φ-Department developing future systems for earth observation. Φ-lab convenes data scientists and technologists from across the World to develop research agendas on the relevance for EO of emerging technology topics including AI, distributed ledgers and quantum computing. The Φ-lab’s mission is to accelerate the future of earth observation, by helping Europe’s earth observation and space researchers and companies adopt disruptive technologies and methods.
 * https://www.opengeospatial.org/[The Open Geospatial Consortium] provides the processes for communities to advance geospatial data science.  The OGC Geospatial AI Domain Working Group and the OGC Big Data Domain Working Group are chartered to foster discussion, to identify community best practices and as needed initiate standardization relevant to geospatial data science.
 
-==== Recommendations
+=== Recommendations
 
 This preceding sections of this Clause motivate several recommendations.
 

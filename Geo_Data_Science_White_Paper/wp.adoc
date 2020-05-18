@@ -15,11 +15,11 @@
 |===
 |{set:cellbgcolor:#FFFFFF}
 |[big]*Open Geospatial Consortium*
-|Submission Date: <2020-02-28>
+|Submission Date: <2020-05-20>
 |Approval Date:   <yyyy-mm-dd>
 |Publication Date:   <yyyy-mm-dd>
 |External identifier of this OGC(R) document: http://www.opengis.net/doc/{doc-type}/{standard}/{m.n}
-|Internal reference number of this OGC(R) document:  20-001 
+|Internal reference number of this OGC(R) document:  20-001r1 
 |Category: OGC(R) White Paper
 |Editor:  George Percivall
 |===
@@ -27,8 +27,6 @@
 [cols = "^", frame = "none"]
 |===
 |[big]*{titletext}*
-|DRAFT FOR REVIEW
-|(Comments to percivall@ogc.org by April 25, 2020)
 |===
 
 [cols = "^", frame = "none", grid = "none"]

@@ -13,7 +13,7 @@ This Clause contains these sections:
 
 === Knowledge Powered Data Science
 
-Yoland Gil, USC, presented on "Knowledge-Powered Data Science for Integrated Modeling in Geosciences."   The call to action for this presentation was encapsulated in this outline:
+Yolanda Gil, USC, presented on "Knowledge-Powered Data Science for Integrated Modeling in Geosciences."   The call to action for this presentation was encapsulated in this outline:
 
 ** Focus shifted from data to models
 *** Model Characterization, reuse, and integration
@@ -33,7 +33,7 @@ There always has been great demand but there's always been this human bottleneck
 
 
 .Grand Challenge for Geospatial Data Science
-image:figures/FIG08.01_Integrated_Modeling.png[500,500]
+image::figures/FIG08.01_Integrated_Modeling.png[500,500]
 
 Its really, really, hard to integrate models across disciplines even if both are physical models. Imagine if you try to integrate social economic models with agriculture models. I We'll have a better world if we manage to do integrated modeling.  If we can do integrated modeling well then we can do many other things really well. We can do data preparation really well; we can do single model reuse really well; etcetera. This is a grand challenge; worth doing.
 
@@ -44,7 +44,7 @@ Its really, really, hard to integrate models across disciplines even if both are
 Diversity of models from different disciplines is required to meet the data science and decision needs.  With the thematic diversity also comes a diversity of modeling approaches.  Integration of the models must address these different types of diversity
 
 .Modeling in Different Disciplines: Diversity of Approaches
-image:figures/FIG08.02_Diversity_Models.png[500,500]
+image::figures/FIG08.02_Diversity_Models.png[500,500]
 
 Hydrology models may be using an irregular grid where they can look at physical variables in each one of those grid cells. There's a lot of physics involved and the complexity can be enormous. But the system can also be simplified and modeled on a coarser grain level. It needs a lot of historical data to adapt the general physics and fluid equations to that particular area. This generates very useful information about the times and days where particular grid cells are flooded so they're very important but they have this flavor of very rich physics based modeling.
 
@@ -59,7 +59,7 @@ So if you're trying to understand and integrate two of these models they work as
 Research has been done to develop a framework for integrated modeling.  We need the ability to incorporate  knowledge into our data science systems to improve the way that we do modeling.
 
 .Integrated Modeling: Bridging Across Disciplines
-:image:figures/FIG08.03_Model_Integration_Framework.png[500,500]
+image::figures/FIG08.03_Model_Integration_Framework.png[500,500]
 
 The framework includes several levels in order to address the diversity.  The framework was developed in the http://mint-project.info/[MINT project] which provides Model Integration through Knowledge-Rich Data and Process Composition.
 
@@ -68,19 +68,22 @@ The framework includes several levels in order to address the diversity.  The fr
 The major value of model development is to improve decision making.  The models represent the accumulated knowledge that can them be applied to the decision making process.  The models become a key element in the iterative process to model, analyze, judge, chose or repeat.
 
 .Decision Making with Models
-image:figures/FIG08.04_Models_supporting_Decisions.png[500,500]
+image::figures/FIG08.04_Models_supporting_Decisions.png[500,500]
 
 Yolanda's research involves the addition of a key element in decision making - interventions.  As as part of the iterative decision making loop, different values of input parameters can be introduced as intervention towards affecting outcomes.  Varying values in subsequent model runs provides a range of alternative outcomes.  The decision making this informed by the choice against alternative outcomes.
 
 For example in a crop forecasting model, the adjustable variables may be fertilizer costs.  By studying a range of fertilizer costs, avaiable budget and the resulting crop production, a decision is informed by the knowledge driven framing based on model indicators and adjustable variables.
 
 .Knowledge Driven decisions
-image:figures/FIG08.05_KnoweldgeDrivenDecisions.png[500,500]
+image::figures/FIG08.05_KnoweldgeDrivenDecisions.png[500,500]
 
 
-==== Recommendations
+=== Recommendations
 
 ** Identify the needs for consensus standards in the MINT model integration framework, e.g., data formats coming from different disciplines.
 ** Expand the discussion on Knowledge Powered Data Science to additional types of models, e.g., models for the built environment, models for training, simulation and gaming.
 ** Engage the OGC Interoperable Simulation and Gaming DWG in discussion of Knowledge Powered Data Science
 ** Update the Model, Simulation and Prediction Roadmap in the OGC Tech Trends based on this Clause.
+
+Geospatial Data Science recommendations for the ISG DWG
+Promote development of Knowledge Powered Data Science to additional types of models, e.g., models for the built environment, models for training, simulation and gaming.

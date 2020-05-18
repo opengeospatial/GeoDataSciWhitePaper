@@ -11,17 +11,21 @@ This Clause contains these sections:
 ** Intelligence
 ** Business and Insurance
 ** Geospatial Data Science Ethics
+** Recommendations
+
 
 === Natural Resources and Agriculture
 
-Recall
-- Crop inundation example from the Geographical Statistics clause
-- the Biodiversity example in the Machine Learning Clause
-
-The motivation for the Copernicus program to support European policies. One of the major European policy elements that has benefited from the Sentinel data is the Common Agricultural Policy. CAP is the single biggest fiscal budget item in Europe at 43% of the total budget of the European Union.  Mainly it pays subsidies to make agriculture economically viable for the farmers. But it also has elements for enforcing environmental policies and sustainable agriculture. The CAP compliance checks for receiving subsidies  is traditionally done through interpretation of a very high resolution imagery for a 5% sample per country and then for a smaller percentage of those parcels there is spot checks in in addition to the VHR imagery interpretation to determine the compliance.  This is complicated and inefficient. Fully automated monitoring based on Sentinel time series and data analytic tools basically from the data science community is a big step.  The Figure shows the results of this new process.
+Patrick Giffiths, ESA, provide an example of agriculture monitoring using data science.  The motivation for the Copernicus program to support European policies. One of the major European policy elements that has benefited from the Sentinel data is the Common Agricultural Policy. CAP is the single biggest fiscal budget item in Europe at 43% of the total budget of the European Union.  Mainly it pays subsidies to make agriculture economically viable for the farmers. But it also has elements for enforcing environmental policies and sustainable agriculture. The CAP compliance checks for receiving subsidies  is traditionally done through interpretation of a very high resolution imagery for a 5% sample per country and then for a smaller percentage of those parcels there is spot checks in in addition to the VHR imagery interpretation to determine the compliance.  This is complicated and inefficient. Fully automated monitoring based on Sentinel time series and data analytic tools basically from the data science community is a big step.  The Figure from http://esa-sen4cap.org/[ESA's Sen4CAP project] shows the results of this new process.
 
 .Machine Learning supported Agriculture policy compliance
-image:figures/FIG09.01_EuropeanAgExample.png[500,500]
+image::figures/FIG09.01_ESA_AgExample.png[500,500]
+
+
+Recall these example applications presented earlier in this document:
+
+- Crop inundation application in the Geographical Statistics Clause 6.
+- Biodiversity application in the Machine Learning Clause 7
 
 
 === Urban Data Science
@@ -34,12 +38,12 @@ The City of Los Angeles has several data science projects improving the lives of
 https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/[NVIDIA Metropolis] create IoT applications, from the edge to the cloud, for retail,  inventory management, traffic engineering in smart cities.  Milind Naphade, NVIDIA Metropolis, presented at the LP_DS Summit about their system for workloads that run at the edge for video data. Processing video for traffic monitoring and analytics detects objects at 50 objects per frame that's 1.5 million messages per second. With video plus geospatial  every object that detected is labeled with GPS coordinates, we convert the video into the real world map based understanding. This for example allows for anomaly detection, e.g., where a vehicle was detected driving in the wrong lane.  This would allow for real time response like switching the traffic lights to red, police vehicle  escorting the vehicle off of the road, etc.
 
 .NVIDIA Smart Cities
-image:figures/FIG09.02_nvidia-ai-smart-cities.png[500,500]
+image::figures/FIG09.02_nvidia-ai-smart-cities.png[500,500]
 
 Ed Strocko, US DoT, provided a focus on transportation safety. Over 36,000 people die on highways every year. This is way too high.  The five examples in the Figure are from a data visualization organized by DoT.  The Central Florida example used machine learning to do short-term predictive analytics on where a crash is going to occur; where do we think we need to be focusing our attention changing the variable speed limit signs; giving the infrastructure operators some information. Ford and Arity were looking at the behavioral information coming off the cars; hard stops, hard starts, people using cell phones and using some data science in there to get that get down that number of fatalities. These developments need to continue until we can really achieve that that vision of a much safer road with autonomous and connected vehicles
 
 .US DoT Transportation Safety Data Visualization Challenge
-image:figures/FIG09.03_US_DoT_TransportationSafety.png[500,500]
+image::figures/FIG09.03_US_DoT_TransportationSafety.png[500,500]
 
 To support many of the urban use cases, High Definition (HD) Maps are needed. Standardizing HD maps is contrasted with today's mapping systems.  Information for autonomous vehicle needs to be HD. Standard for HD map data in a format that can be understood by not just the cities but software in general and the other scientists at large. We need to look at the policy comes together. But it's definitely the collaboration across the spaces there to get to something.  Jeremy Morley, Ordannce Survey UK, discussed how from a national mapping agency perspective as well for the UK, there's interesting questions also as to whether when we talk about HD roads or just interested in that CAV market.  It's not just a single map that each of fleets will want.  And how well does it serve other purposes as well whether it's the IOT market or simply local authorities better maintaining their assets. There's a way to go to accumulate enough evidence as to what is a good product or standard in this space.
 
@@ -49,7 +53,7 @@ To support many of the urban use cases, High Definition (HD) Maps are needed. St
 Stephanie Shipp, U. of Virginia, presented on Harnessing the Power of Data to Support Community Health and Well-Being.  She described the Community Scapes program that identifies where to target programs and policies for communities with risk of obesity. A key part of the data analysis was re-distribution of source data using synthetic information.  The project used American Community Survey (ACS) summaries and ACS Public Use Micro Data Sample (PUMS) to impute synthetic person data for all people or households in area of interest.  The data was re-weighted synthetic data according to ACS tables to simultaneously match the relevant distributions, to Census Tracts or Block Groups.  The aggregate synthetic data was used to compute summaries, and margins of error, over the new geographic boundaries or interest as shown in the figure.
 
 .Identifying communities with risk of obesity
-image:figures/FIG09.04_CommunityScapes.png[500,500]
+image::figures/FIG09.04_CommunityScapes.png[500,500]
 
 Wendy Martinez, US BLS, described how the US Center for Disease Control maintains an environmental Public Health tracking network with information on environmental hazards and the health effects associated with the hazards.  Such health data can be applied for planning and health interventions.
 
@@ -65,7 +69,7 @@ Ajay Gupta, led a group discussion on health that examined the need for both pop
 Nils Lahr provided an example from the National Geospatial-intelligence Agency (NGA).   The NGA workflow for real-time video from UAVs is shown in the Figure.  The system manages processing of a hundred drones.  The analysis is about where and when. Gathering patterns of life not just as whole bunch of data points but things that matter in the field.  The patterns are a level of intelligence that we have not been able to do at scale.
 
 .NGA drone video processing workflow
-image:figures/FIG09.05_NGA_workflow.png[500,500]
+image::figures/FIG09.05_NGA_workflow.png[500,500]
 
 
 === Business and Insurance
@@ -96,7 +100,7 @@ Devaki Raj, CrowdAI, provided examples of applying machine learning to the to hu
 The application of Statistical Geography provides data science methods to assess the social impact of a hurricanes.  The Bureau of Labor Statistics mapped the affect of storm surge due to a hurricane hitting Virginia coastal areas.  Using the Quarterly Census of Employment and Wages (QCEW), they calculated the employment in the various geographical flood zones.
 
 .Employment in Hurricane Storm Surge Flood Zones, Virginia
-image:figures/FIG09.06_Employment_Hurricane.png[500,500]
+image::figures/FIG09.06_Employment_Hurricane.png[500,500]
 
 
 Examples of emergeing response from previous clauses:
@@ -132,11 +136,12 @@ Wendy provided three examples were discussed.  The first was on racial bias in m
 
 References on data ethics.
 
-** https://www.nature.com/articles/d41586-018-07135-0
-** https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G
-** https://washingtonmonthly.com/magazine/junejulyaugust-2017/code-of-silence
-** https://www.washingtonpost.com/health/2019/10/24/racial-bias-medical-algorithm-favors-white-patients-over-sicker-black-patients/
-** https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/
+** https://www.nature.com/articles/d41586-018-07135-0[Self-driving car dilemmas reveal that moral choices are not universal]
+** https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G[https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G]
+** https://washingtonmonthly.com/magazine/junejulyaugust-2017/code-of-silence[Code of Silence:
+How private companies hide flaws in the software that governments use to decide who goes to prison and who gets out.]
+** https://www.washingtonpost.com/health/2019/10/24/racial-bias-medical-algorithm-favors-white-patients-over-sicker-black-patients/[Racial bias in a medical algorithm favors white patients over sicker black patients]
+** https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/[A face-scanning algorithm increasingly decides whether you deserve the job]
 
 Data Science Ethics is not just an abstract discussion.  The application of data science technology can bring harm.  The questions about technology can prevent its application.  Philippe Cases, Topio Networks, discussed ethics and principles in the context of AI and edge computing: we cannot compare the new technology to some absolute standard; the appropriate approach is to identify the advantages and minimize the risks.
 
@@ -146,8 +151,11 @@ Andy Brooks discussed the implications of AI on workforce.  Previously it would 
 
 Ethical issues particular to geospatial data science are highlighted by handling of location data and location privacy.  LP_DS discussed that it is very difficult to make data anonymous when it contains location information about individuals.  In particular trajectory data about individuals has been shown to be de-anonymized rather easily. Strategies for data ethics were discussed such as relating to edge computing.  Keeping the most descriptive data on individuals at the edge and passing the most general information to the cloud was discussed.  There was also a call for a Geospatial Data Science Code of Ethics.  Some of the approaches suggest masking or otherwise degrading the data.  Stephanie Shipp advocated that when it comes to data privacy, don't mask the data but rather punish misuse.
 
-==== Recommendations
+=== Recommendations
 
 ** Identify and promote additional applications of geospatial data science.
-** Initiate discussion of geospatial data ethics, including the possibility of a Geospatial Data Science Code of Ethics.
 ** Identify and promote community practices for geospatial data science ethics.
+
+It is recommended that the OGC GeoAI Domain Working Group consider:
+
+** Promoting development of a Geospatial Data Science Code of Ethics focused on Artificial Intelligence.

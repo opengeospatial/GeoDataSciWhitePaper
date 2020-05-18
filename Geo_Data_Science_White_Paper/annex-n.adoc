@@ -2,13 +2,14 @@
 :appendix-caption: Annex
 == Location Powers: Data Science Summit
 
-This Annex includes
+This Annex includes these topics about the Location Powers Summit:
+
 ** Summary Agenda
 ** Detailed Agenda
 ** Organizing Committee
 ** Attending organizations.
 
-=== A.1	Summary Agenda
+=== Summary Agenda
 
 Day One - November 13
 
@@ -27,7 +28,7 @@ Day Two - November 14
 ***	What should organizations do to advance geospatial data science and its outcomes?
 **	Summary: Rapporteur Reports
 
-=== A.2	Detailed Agenda
+===	Detailed Agenda
 
 ==== Opening:
 
@@ -37,107 +38,86 @@ Day Two - November 14
 
 ==== Session 1: Foundations/Motivations
 
-***	Session Moderator: Ed Parsons, Google
-***	Session Rapporteur: George Percivall, OGC
-***	Session Description: With the inundation of new geospatial data sources from imagery, sensors and the potential of new broadband pipelines such as 5G, there is a defined need of validating and cleansing data. These data will be in both structured and unstructured formats. This session on foundations will illustrate the challenges of curating data from these myriad sources and understanding both the veracity and accuracy that will be attributed to these sources.
-
-
-Presentation on Foundations
-
+***	Session Overview
+- Moderator: Ed Parsons, Google
+- Rapporteur: George Percivall, OGC
+- Description: With the inundation of new geospatial data sources from imagery, sensors and the potential of new broadband pipelines such as 5G, there is a defined need of validating and cleansing data. These data will be in both structured and unstructured formats. This session on foundations will illustrate the challenges of curating data from these myriad sources and understanding both the veracity and accuracy that will be attributed to these sources.
+*** Presentation on Foundations
 - Title: Fundamental Issues in Geospatial Data Science: Emerging Trends in Data and Analytics
 - Professor Marc Armstrong, Associate Dean and Professor of Geography, University of Iowa
-
-Presentation on Foundations
-
+*** Presentation on Foundations
 - Title: Scaling machine learning to handle visual data will result in more powerful AI
 - Nils Lahr, CEO Orion Systems
-
-Panel on Foundations:
-
-•	Kathleen Stewart, UMCP/CGIS - Perspective: New opportunities through big mobility data analytics
-•	Anand Padmanabhan, University of Illinois - Perspective: CyberGIS-Jupyter for Reproducible Geospatial Research and Education
-•	Mark Korver, AWS
-•	Jayant Sharma, Oracle
+*** Panel on Foundations:
+-	Kathleen Stewart, UMCP/CGIS - Perspective: New opportunities through big mobility data analytics
+-	Anand Padmanabhan, University of Illinois - Perspective: CyberGIS-Jupyter for Reproducible Geospatial Research and Education
+-	Mark Korver, AWS
+-	Jayant Sharma, Oracle
 
 ==== Session 2: Analytics and Representations
 
-•	Session Moderator: Kumar Navulur, Maxar
-•	Session Rapporteur: Annie Burgess, ESIP Federation
-•	Session Description: While geospatial scientists in the past may have spent 70% of their time on data capture and management, and only 30% on analytics, that model today and in the future will be flipped. As such, the engines of data analytics will need to be placed into the hands of both traditional GIS analysts as well as business intelligence and knowledge workers. This will require new tools to derive spatial statics, as an example, as well as utilizing graph technology for entity resolution. This session will aim to examine these topics and more.
-
-Presentation on Analytics & Representations
-
+*** Session Overview
+- Moderator: Kumar Navulur, Maxar
+- Rapporteur: Annie Burgess, ESIP Federation
+- Description: While geospatial scientists in the past may have spent 70% of their time on data capture and management, and only 30% on analytics, that model today and in the future will be flipped. As such, the engines of data analytics will need to be placed into the hands of both traditional GIS analysts as well as business intelligence and knowledge workers. This will require new tools to derive spatial statics, as an example, as well as utilizing graph technology for entity resolution. This session will aim to examine these topics and more.
+*** Presentation on Analytics & Representations
 - Title: Knowledge-Powered Data Science for Integrated Modeling in Geosciences
 - Professor Yolanda Gill, USC Spatial Sciences Institute
-
-Panel on Analytics:
-
-•	Todd Mostak, OmniSci - Perspective: Geospatial Intelligence through Accelerated Analytics & Data Science at Scale
-•	Lauren Bennett, Esri - Perspective: Spatial data science moves from the avant garde to the mainstream
-•	Hamed Alemohammad, Radiant Earth - Perspective: Radiant MLHub: A Repository for Machine Learning Ready Geospatial Training Data
-•	Keith Hare, JTC 1 SQL/GQL convenor - Perspective: Analytics And Representations in SQL and GQL
-
-Discussion Group on Analytics
+*** Panel on Analytics:
+-	Todd Mostak, OmniSci - Perspective: Geospatial Intelligence through Accelerated Analytics & Data Science at Scale
+-	Lauren Bennett, Esri - Perspective: Spatial data science moves from the avant garde to the mainstream
+-	Hamed Alemohammad, Radiant Earth - Perspective: Radiant MLHub: A Repository for Machine Learning Ready Geospatial Training Data
+-	Keith Hare, JTC 1 SQL/GQL convenor - Perspective: Analytics And Representations in SQL and GQL
+*** Discussion Group on Analytics
 
 ==== Session 3: Ripe Trends
 
-•	Session Moderator: Jay Theodore, CTO, Enterprise Technologies, Esri
-•	Session Rapporteur: K. Kim, AIST and GeoAI DWG chair
-•	Session Description: Computing at the edge will require interoperable sensors and other devices, machine learning and faster transfer of data. The coalescence of technologies such as IoT, 5G and cloud native computing is facilitating a new era of geoprocessing. This will impact the way data is captured, managed and processed where AI portends to impact everything from traffic management to adtech.
-
-Presentation on Ripe Trends
+*** Session Overview
+- Moderator: Jay Theodore, CTO, Enterprise Technologies, Esri
+- Rapporteur: K. Kim, AIST and GeoAI DWG chair
+- Description: Computing at the edge will require interoperable sensors and other devices, machine learning and faster transfer of data. The coalescence of technologies such as IoT, 5G and cloud native computing is facilitating a new era of geoprocessing. This will impact the way data is captured, managed and processed where AI portends to impact everything from traffic management to adtech.
+*** Presentation on Ripe Trends
 - Title: AI at The Edge
 - Philippe Cases, ReadWrite Labs
-
-Panel on Ripe Trends :
-
-•	Anand Kannan, Pitney Bowes - Perspective: Data science, an interdisciplinary approach
-•	Milind Naphade, CTO, Metropolis - NVIDIA - Perspective: AI-IOT and Location
-•	Devaki Raj, CrowdAI
-•	Jim Stokes, MAXAR
+*** Panel on Ripe Trends:
+-	Anand Kannan, Pitney Bowes - Perspective: Data science, an interdisciplinary approach
+-	Milind Naphade, CTO, Metropolis - NVIDIA - Perspective: AI-IOT and Location
+-	Devaki Raj, CrowdAI
+-	Jim Stokes, MAXAR
 
 ==== Session 4: Outcomes/Applications
 
-•	Session Moderator: Jeremy Morley, Ordnance Survey UK
-•	Session Rapporteur: Ajay Gupta, chair of OGC Health WG
-•	Session Description: The geospatial community recognizes the significance of location-based data but how are these data revealed and recognized as inputs to data science? Is the community supporting the integration of geospatial data with other enterprise computing solutions and ensuring that data scientists understand their value, social effects, applications and expected return on investment.
-
-Presentation on Outcomes
+*** Session Overview
+- Moderator: Jeremy Morley, Ordnance Survey UK
+- Rapporteur: Ajay Gupta, chair of OGC Health WG
+- Description: The geospatial community recognizes the significance of location-based data but how are these data revealed and recognized as inputs to data science? Is the community supporting the integration of geospatial data with other enterprise computing solutions and ensuring that data scientists understand their value, social effects, applications and expected return on investment.
+*** Presentation on Outcomes
 - Title: Integration of Geospatial Data: Examples and Implications
 - Dr. Wendy Martinez, President-elect, American Statistical Association; and US Bureau of Labor Statistics.
-
-Panel on Outcomes :
-
-•	Regan Smyth, NatureServe - Perspective: The Age of Precision Conservation: Applying AI and Collaborative Science to Prevent Species Extinctions
-•	Megan Furman, Defense Digital Service, OSD
-•	Steven Ward, The Climate Corporation
-•	Edward Strocko, USDOT Bureau of Transportation Statistics
-
-Discussion Groups on Outcomes: trail walk to the Bay
-
-Reports from Discussion Groups on Outcomes
+*** Panel on Outcomes:
+-	Regan Smyth, NatureServe - Perspective: The Age of Precision Conservation: Applying AI and Collaborative Science to Prevent Species Extinctions
+-	Megan Furman, Defense Digital Service, OSD
+-	Steven Ward, The Climate Corporation
+-	Edward Strocko, USDOT Bureau of Transportation Statistics
+*** Discussion Groups on Outcomes: trail walk to the Bay
+*** Reports from Discussion Groups on Outcomes
 
 ==== Session 5: Actions to Take
 
-- Session Moderator: Nadine Alameh, OGC
-- Session Rapporteur: Adam Martin, Esri
-- Session Description: This panel will attempt to identify what data science brings beyond traditional GIS and vice versa. What skill sets will be required and how do we train data scientists who are expected to use geospatial data. The objective will be to help organizations automate and scale geospatial data science insights into workflows throughout their organizations. In particular, what actions might OGC take. This final panel will summarize the suggested points of deliberation from previous sessions and suggest next actions.
-
-Presentation on Actions:
-
+*** Session Overview
+- Moderator: Nadine Alameh, OGC
+- Rapporteur: Adam Martin, Esri
+- Description: This panel will attempt to identify what data science brings beyond traditional GIS and vice versa. What skill sets will be required and how do we train data scientists who are expected to use geospatial data. The objective will be to help organizations automate and scale geospatial data science insights into workflows throughout their organizations. In particular, what actions might OGC take. This final panel will summarize the suggested points of deliberation from previous sessions and suggest next actions.
+*** Presentation on Actions:
 - Title: When HPC met AI - Next generation of Geospatial Intelligence powered by the ABCI
 - Satoshi Sekiguchi, AIST
-
-Presentation on Actions:
-
+*** Presentation on Actions:
 - Title: Designing the Future of Data Science
 - Andrew Brooks, NGA
-
-Panel on Actions:
-
-•	Patrick Griffiths, ESA - Perspective: Earth Observation data and analytics supporting policy and geospatial industries
-•	Jeanne Holm, City of Los Angeles - Perspective: Building a Generation of Government Data Scientists
-•	Stephanie Shipp, U. of Virginia - Perspective: Harnessing the Power of Data to Support Community Health and Well-Being
+*** Panel on Actions:
+-	Patrick Griffiths, ESA - Perspective: Earth Observation data and analytics supporting policy and geospatial industries
+-	Jeanne Holm, City of Los Angeles - Perspective: Building a Generation of Government Data Scientists
+-	Stephanie Shipp, U. of Virginia - Perspective: Harnessing the Power of Data to Support Community Health and Well-Being
 
 ==== Summary Session
 
@@ -149,7 +129,7 @@ Rapporteur Reports :
 - Session 4: Ajay Gupta
 - Session 5: Adam Martin
 
-=== A.3	Organizing Committee
+=== Organizing Committee
 
 •	Ed Parsons,  Google
 •	Patrick Griffiths, European Space Agency
@@ -164,7 +144,7 @@ Rapporteur Reports :
 •	Joe Francica, Pitney Bowes
 •	George Percivall, OGC
 
-=== Attending Organizations
+=== Participating Organizations
 
 •	AAIA
 •	Aechelon

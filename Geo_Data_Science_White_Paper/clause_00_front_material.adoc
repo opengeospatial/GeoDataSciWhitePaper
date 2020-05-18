@@ -6,7 +6,7 @@ This OGC White Paper describes Geospatial Data Science based on the Location Pow
 
 The following are keywords to be used by search engines and document catalogues.
 
-ogcdoc, OGC document, Data Science, Analytics, Artificial Intelligence, Machine Learning, Edge Computing, Python, Juypter, Knowledge-based Models, Data Management, IT Ethics,	Heterogenous computing
+ogcdoc, OGC document, Data Science, Analytics, Statistics, Artificial Intelligence, Machine Learning, Edge Computing, Knowledge-based Models, Data Management, IT Ethics,	Heterogenous computing
 
 [big]*iii.   Preface*
 
@@ -16,14 +16,8 @@ An objective of the white paper to serve as a basis for the promotion of geospat
 
 [big]*iv.    Submitting organizations*
 
-The following organizations submitted this Document to the Open Geospatial Consortium (OGC):
-
-(Organization name(s) from the Location Powers: Data Summit to be added based on approval after reviewing the document.  Notify George Percivall to add your organization to this list.)
+This document is based on organizations participating in the Location Powers: Data Science Summit as listed in Annex A.
 
 [big]*v.     Submitters*
 
-All questions regarding this submission should be directed to the editor or the submitters:
-
-George Percivall,  Open Geospatial Consortium
-
-(Individuals who contributed to the Location Powers summit which contributed to this document will be added as they agree to the content.  Notify George Percivall to add your name to this list.)
+All questions regarding this submission should be directed to the editor: George Percivall,  Open Geospatial Consortium

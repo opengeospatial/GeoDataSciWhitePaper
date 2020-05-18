@@ -17,12 +17,12 @@ This Clause contains these sections:
 Artificial Intelligence is in its third generation of technology development. In the LP_DS Summit, Satoshi Sekiguchi, AIST, presented a figure showing these three generations: where the top half of the diagram shows development of AI as rule-based, symbolic manipulation with inference engines; and the bottom half address data driven AI based on pattern recognition and machine learning. In this clasue the emphasis will be on Machine Learning.  Knowledge Graphs as a form of AI will be considered in Clause 8.
 
 .Generations of Artificial Intelligence development
-image:figures/FIG07.01_Generations_of_AI.png[600,600]
+image::figures/FIG07.01_Generations_of_AI.png[600,600]
 
-The recent advances in machine learning has been driven in large part by the ready availability of a large number of images on which to train the machine learning classifiers.  Satoshi Sekiguchi portrayed this as an  advancement in Data Science where the New Oil (big data) meets the New Engine (deep learning with high performance computing and big data computing).  Within HPC, Satoshi considers traditional HPC applications including mathematical or physical models. The mixing of augmenting machine learning training based on data with hypothesis and models will be address later in this clause.
+The recent advances in machine learning has been driven in large part by the ready availability of training data commonly based on computer vision benchmark datasets such as Imagenet etc.  Satoshi Sekiguchi portrayed this as an  advancement in Data Science where the New Oil (big data) meets the New Engine (deep learning with high performance computing and big data computing).  Within HPC, Satoshi considers traditional HPC applications including mathematical or physical models. The mixing of augmenting machine learning training based on data with hypothesis and models will be address later in this clause.
 
 .AI/Machine Learning and Data Science
-image:figures/FIG07.02_AI_and_DataScience.png[600,600]
+image::figures/FIG07.02_AI_and_DataScience.png[600,600]
 
 Several discussions about AI and Machine Learning are captured in these quotes
 
@@ -34,22 +34,22 @@ Several discussions about AI and Machine Learning are captured in these quotes
 ** "Need to consider both AI and intelligence augmentation" - group
 
 
-Jay Theodore, Esri, provide an example of how Machine Learning for imagery can be deployed as shown in the Figure.  The full workflow where you collect the data, prep the data you use it for training, then  build and validate models, deploy them and then once you deploy them you probably want to run the inferencing at scale.  This is the full end-to-end workflow that typically might happen in the cloud.  Then for deploying to the edge  you pick and choose what you want to do at the edge and deploy it at the edge.  You might train the model at the edge because that kind of citizen data may not be able to go to the cloud in a different region or a different country. Train the model at the edge so there is no privacy law that will broken and as you doing push that citizen data up to the cloud in the first place.
+Jay Theodore, Esri, provide an example of how Machine Learning for imagery can be deployed as shown in the Figure.  The full workflow where you collect the data, prep the data you use it for training, then  build and validate models, deploy them and then once you deploy them you probably want to run the inferencing at scale.  This is the full end-to-end workflow that typically might happen in the cloud.  Then for deploying to the edge  you pick and choose what you want to do at the edge and deploy it at the edge.  You might train the model at the edge to avoid sending the data to the cloud. Train the model at the edge so no privacy laws are broken by pushing data up to the cloud.
 
 .Machine Learning with Imagery life cycle by Esri
-image:figures/FIG07.03_GeoAI_LifeCycle.png[900,900]
+image::figures/FIG07.03_GeoAI_LifeCycle.png[900,900]
 
-An example of the effectiveness of machine learning is presented here.  Several more examples will be presented as applications in Clause 9.  Regan Smyth, NatureServe, has applied machine learning to mapping of species habitats.  The figures shown here are predicted habitats regions for a type of salamander.  The figures depict the improvement in predicted suitability of the right over the left map. Furthermore, the efficiency of making these maps is greatly improvd with machine learning.  In the past year NatureServe has done this for 2,000 species by pulling together data collected by hundreds of people in the field building a kind of cloud-based environment where we  have a team of scientists collaborating on the modeling and then using tools to get that information  back out to our scientists to review it and tell us how well the models have done.
+An example of the effectiveness of machine learning is presented here.  Several more examples will be presented as applications in Clause 9.  Regan Smyth, NatureServe, has applied machine learning to mapping of species habitats.  The figures shown here are predicted habitats regions for a type of salamander.  The figures depict the improvement in predicted suitability of the right over the left map. Furthermore, the efficiency of making these maps is greatly improved with machine learning.  In the past year NatureServe has done this for 2,000 species by pulling together data collected by hundreds of people in the field building a kind of cloud-based environment where we  have a team of scientists collaborating on the modeling and then using tools to get that information  back out to our scientists to review it and tell us how well the models have done.
 
 .Effectiveness of Machine Learning in habitat identification
-image:figures/FIG07.04_ML_Results_Salamander.png[700,700]
+image::figures/FIG07.04_ML_Results_Salamander.png[700,700]
 
 === Challenges with AI
 
 While there are many examples of the benefits of machine learning, there was a substantial disucssion in the LP_DS Summit about the current challenges with machine learning. The figure below was presented by Nils Lahr, depict multiple of the challenges discussed.
 
 .Current Challenges with Machine Learning
-image:figures/FIG07.05_Challenges_with_AI.png[500,500]
+image::figures/FIG07.05_Challenges_with_AI.png[500,500]
 
 Challenges with Machine Learning are reflected in these quotes from the workshop:
 
@@ -58,9 +58,7 @@ Challenges with Machine Learning are reflected in these quotes from the workshop
 ** "Benchmarks data sets with labels are needed to develop the systems so end users can actually start having confidence that this really works" - Milind Naphade
 ** "There is a lack of geospatial training data catalogs. This leads to biased or incorrect results and the inability to capture wide range of possible outcomes in space and time" - Hamed Alemohammad
 ** "A really good vehicle detection model in the Midwest US may look very different than a really good vehicle detection and tracking model in Shanghai or Beijing or Mumbai." - Milind Naphade, NVIDIA Metropolis
-** "You can create all the models you want all day long and then all of a sudden something real happens and you realize that you that the models aren't what you needed" - Nils Lahr
-
-
+** "You can create all the models you want all day long and then all of a sudden something real happens and you realize that the models aren't what you needed" - Nils Lahr
 
 
 === Training Sets and Benchmarks
@@ -78,7 +76,7 @@ During LP_DS Summit, Hamed Alemohammad, Radiant Earth, applauded the BigEarthNet
 Several discussions about Benchmarks and Training Data sets are captured in these quotes:
 
 ** "The quality and source of training data really is a key issue. Also identifying what the correct the best or the good sources of data both data sets and data sources really are and we thought it was interesting that the level of confidence in the data and the outcome is related to the application some applications need more and some less level of confidence.""
-** "Building an building a geospatial image repository is not as simple as ImageNet."
+** "Building on a geospatial image repository is not as simple as ImageNet."
 ** "HERE technologies talked about the challenge of maintaining a training set of data that has a temporal characteristic. They need to continuously re-annotate and continuously look to make sure that you got a representation of ground truth."
 ** "I can't tell you how often we've built a model based on synthetic data with exciting results and then we threw real data we're very disappointed"
 ** "A theme of our discussion was sharing more whether it's data or whether it's modeling but then also making sure that we have an idea of what the quality is and you know how stale is our data and how good is your model and being able to communicate that as well."
@@ -107,7 +105,9 @@ In the near term we conclude this clause with the Keys to Success for Machine Le
 ** Partnerships between tech and front line actors
 ** Human-mediated review of ML outputs
 
-==== Recommendations
+=== Recommendations
 
-** The OGC GeoAI Working Group should consider the community best practices for geospatial machine learning.
-** OGC should promote the development of traing sets and benchmarks, e.g., with the Radiant Earth Foundation.
+It is recommended that the OGC GeoAI Domain Working Group consider:
+
+** Promoting development of OGC Community Practices for geospatial machine learning.
+** Promoting development of training sets and benchmarks for geospatial machine learning, e.g., in coordination with ESA and Radiant Earth Foundation.

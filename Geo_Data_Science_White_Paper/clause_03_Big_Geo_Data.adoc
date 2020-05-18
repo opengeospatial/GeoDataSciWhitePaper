@@ -1,10 +1,11 @@
 == Data: Big Geospatial Data
 
-This Clause addresses three topics related to big data for data science.
+This Clause addresses topics related to big data for data science.
 
 ** Big Data with Location
 ** Big Data Software Stack
 ** Big Geo Data Use Cases
+** Recommendations
 
 
 === Big Data with Location
@@ -41,7 +42,7 @@ denoting or relating to a knowledge of a location that is continuously accessibl
 
 === Big Data Software Stack
 
-The growth of Big Stack drove the development of a fundamentally different software computing platform.  The Birth of the Big Data Stack in late 1990s and early 2000s provided extreme flexibility and scalability in distributed batch applications for data at ever increasing volumes.  https://www.usenix.org/system/files/login/articles/login_winter18_08_khurana.pdf[The Modern Data Architecture: The Deconstructed Database] provides a good summary of these developments and includes this figure.
+The growth of Big Stack drove the development of a fundamentally different software computing platform.  The Birth of the Big Data Stack in late 1990s and early 2000s provided extreme flexibility and scalability in distributed batch applications for data at ever increasing volumes.  https://www.usenix.org/system/files/login/articles/login_winter18_08_khurana.pdf[The Modern Data Architecture] provides a good summary of these developments and includes this figure.
 
 .The Birth of the Big Data Stack
 image::figures/FIG03.03_BirthBigDataStack.png[FIG03.03_BirthBigDataStack.png,500,500]
@@ -65,10 +66,13 @@ The https://docs.opengeospatial.org/wp/16-131r2/16-131r2.html[Big Geospatial Dat
 .Big Geo Data Use Cases for Data Science
 image::figures/FIG03.05_BigGeoData_UseCases.png[FIG03.05_BigGeoData_UseCases.png,500,500]
 
-==== Recommendations
+=== Recommendations
 
 This Clause motivates several recommendations.
 
-** Plan for the continued grouwth of Big Geo Data
+** Plan for the continued growth of Big Geo Data
 ** Continue to work with broad Big Data Stack to make geospatial data a routine data type for the broadest communities and to make the Big Data Stack extensible to complex analysis based on spatial temporal analytics.
 ** Identify common geospatial Data Science Use cases that can be reused across applications
+** Promote geospatial big data developments in the Geospatial Track of ApacheCon.  The geospatial track is chaired by OGC.
+
+These recommendations are offered for uptake in OGC's Big Data Domain Working Group.
