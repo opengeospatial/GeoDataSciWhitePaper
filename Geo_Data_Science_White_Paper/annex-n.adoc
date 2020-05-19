@@ -7,7 +7,7 @@ This Annex includes these topics about the Location Powers Summit:
 ** Summary Agenda
 ** Detailed Agenda
 ** Organizing Committee
-** Attending organizations.
+** Participating organizations
 
 === Summary Agenda
 
@@ -32,9 +32,9 @@ Day Two - November 14
 
 ==== Opening:
 
-- Welcome by Google : Ed Parsons, Google’s Geographer - Download pdf (1.73 MB)
+- Welcome by Google : Ed Parsons, Google’s Geographer
 - Welcome by OGC : Nadine Alameh, OGC CEO
-- Workshop Overview: George Percivall, OGC CTO and Workshop Moderator - Download pdf (230 KB)
+- Workshop Overview: George Percivall, OGC CTO and Workshop Moderator
 
 ==== Session 1: Foundations/Motivations
 
@@ -67,7 +67,7 @@ Day Two - November 14
 -	Todd Mostak, OmniSci - Perspective: Geospatial Intelligence through Accelerated Analytics & Data Science at Scale
 -	Lauren Bennett, Esri - Perspective: Spatial data science moves from the avant garde to the mainstream
 -	Hamed Alemohammad, Radiant Earth - Perspective: Radiant MLHub: A Repository for Machine Learning Ready Geospatial Training Data
--	Keith Hare, JTC 1 SQL/GQL convenor - Perspective: Analytics And Representations in SQL and GQL
+-	Keith Hare, JTC 1 SQL/GQL convener - Perspective: Analytics And Representations in SQL and GQL
 *** Discussion Group on Analytics
 
 ==== Session 3: Ripe Trends
@@ -138,7 +138,7 @@ Rapporteur Reports :
 •	Roy Rathbun, NGA
 •	Kyoung-Sook Kim, AIST
 •	Tracey Birch, SOFWERX
-•	Shaowen Wang, UIUC
+•	Shaowen Wang, University of Illinois - Urbana Champaign
 •	Kumar Navular, Maxar
 •	Adam Martin, Esri
 •	Joe Francica, Pitney Bowes

@@ -3,7 +3,7 @@
 Geospatial, analytics, and data science workflows are converging.  This first section in the tools category of the white paper considers several "sovled problems" applied in data rich environment.  Geospatial representations and analytics are well established.  This clause highlights the value that mature geospatial methods uniquely bring to data science. The topics in this clause form a substantial basis for what geospatial data and processing brings to the data science world.
 
 ....
-“Analytics, data science and location intelligence are converging, at scale, in real time, and the new things that you can solve for with these capabilities”
+“Analytics, data science and location intelligence are converging, at scale, in real time, leading to new challenges you can solve for with these capabilities”
 Tod Mostak, OmniSci (formerly MapD)
 ....
 
@@ -59,7 +59,7 @@ The methods of data science can be seen as emerging from statistics [David Donoh
 
 Wendy Martinez concluded her presentation at the LP_DS summit on the topic of data ethics.  Ethics will be addressed in Clause 10 of this white paper.
 
-The https://www.ogc.org/projects/groups/statisticaldwg[OGC Statistical Domain Working Group] is chartered  to identify requirements and use cases of how geospatial and statistical standards can support the integration of geospatial information into the statistical system and for the purposes of broad discovery, analysis and use.
+The https://www.ogc.org/projects/groups/statisticaldwg[OGC Statistical Domain Working Group] is chartered  to identify requirements and use cases of how geospatial and statistical standards can support the integration of geospatial information into the statistical system and for the purposes of broad discovery, analysis and use.  The https://docs.opengeospatial.org/as/15-104r5/15-104r5.html[OGC Discrete Global Grid System standard] has been identified by the Statistical DWG as a standard to considered in their work.
 
 === Space-Time Analytics
 
@@ -121,7 +121,7 @@ The adopted https://www.ogc.org/standards/geoapi/[OGC GeoAPI] standard provides 
 
 === GPU-accelerated Geo Analytics
 
-GPU based computing is improving the performance of many of the topics listed earlier in this Clause.  (Heterogeneous computing beyond GPUs is address in Clause 10.)
+GPU based computing is improving the performance of many of the topics listed earlier in this Clause. (Heterogeneous computing beyond GPUs is address in Clause 10.)
 
 Tod Mostak, OmniSci, performed a demonstration in LP_DS Summit that showed the intersection of analytics and data science based on the GPU accelerated calculations.  The demo included visualize aircraft flight tracks as 5 billion points.  The calculations included spatial bins in seconds and pivoting this table to generate a huge SQL query behind the scenes.  The GPU accelerated k-means algorithm which takes only seconds. The points were then then clustered and visualized as trajectories.
 

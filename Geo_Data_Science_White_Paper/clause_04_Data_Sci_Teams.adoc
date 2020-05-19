@@ -1,5 +1,7 @@
 == Data: Data Scientists, Teams, Process
 
+It is obvious but important to state that data management and processes are core topic of data science.  For data science to be effective, data scientists needs to work in multi-disciplinary teams with an agile process.
+
 This Clause addresses topics related to people and process for data science.
 
 ** Data Scientists and multi-disciplinary teams
@@ -45,7 +47,7 @@ Several approaches to Data Science process definition or methodology were presen
 
 Stephanie Shipp, Univ of Virginia, presented their Data Science Framework.  The UVA framework emphasizes working with the project sponsors to identify the problem as defined by the sponsors.  Beginning with those discussions sharpens the focus; along with looking at the literature and talking to experts.  Then the data discovery aspect of the framework is preconditioned by the problem identification.  You don't just start with the data that's readily accessible.  Then the process is like other data science frameworks where the data wrangling, profiling the data to assess your data quality.  This is iterative work as data wrangling takes about 80% of your time. Reducing that load would leave more time for statistical modeling and analyses.
 
-.UVA Data Science Framework
+.University of Viginia Data Science Framework
 image::figures/FIG04.01_UVA_data_sci_framework.png[600,600]
 
 Andy Brooks, NGA Chief Scientist, used the https://dschool.stanford.edu/resources/this-is-design-work[Stanford D-School] process to explain his teams approach to the data science process.  The numbers in the figure is the approach that Andy used to explain their data science methodology.

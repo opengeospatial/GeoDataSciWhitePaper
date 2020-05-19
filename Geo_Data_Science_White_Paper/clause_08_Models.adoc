@@ -85,5 +85,6 @@ image::figures/FIG08.05_KnoweldgeDrivenDecisions.png[500,500]
 ** Engage the OGC Interoperable Simulation and Gaming DWG in discussion of Knowledge Powered Data Science
 ** Update the Model, Simulation and Prediction Roadmap in the OGC Tech Trends based on this Clause.
 
-Geospatial Data Science recommendations for the ISG DWG
-Promote development of Knowledge Powered Data Science to additional types of models, e.g., models for the built environment, models for training, simulation and gaming.
+Geospatial Data Science recommendations for the OGC ISG DWG
+
+** Promote development of Knowledge Powered Data Science to additional types of models, e.g., models for the built environment, models for training, simulation and gaming.

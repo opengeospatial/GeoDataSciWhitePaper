@@ -10,13 +10,13 @@ ogcdoc, OGC document, Data Science, Analytics, Statistics, Artificial Intelligen
 
 [big]*iii.   Preface*
 
-Geospatial Data Science is defined in this white paper as “The art and craft of people leveraging technology to create value out of data using location and time.”  The components of geospatial data science are data, tools, applications and emerging trends.  The data component is composed of discussions about big geospatial data; data scientists, teams and process; and data management.  The tools component is composed of discussions about geospatial representations and analytics, the application of machine learning to geospatial, and knowledge-based models to support decision making.
+Geospatial Data Science is defined in this white paper as “The art and craft of people leveraging technology to create value out of data using location and time.”  The components of geospatial data science are data, tools, applications, ethics, and emerging trends.  The data component is composed of discussions about big geospatial data; data scientists, teams and process; and data management.  The tools component is composed of discussions about geospatial representations and analytics, the application of machine learning to geospatial, and knowledge-based models to support decision making.
 
 An objective of the white paper to serve as a basis for the promotion of geospatial data science within and external to OGC.  OGC has a role to conduct activities that will advance innovation and standardization in geospatial data science.  The overall objective is to enable beneficial use of geospatial information in humanities critical decisions.
 
 [big]*iv.    Submitting organizations*
 
-This document is based on organizations participating in the Location Powers: Data Science Summit as listed in Annex A.
+This document is based on material from organizations that participated in the Location Powers: Data Science Summit as listed in Annex A.
 
 [big]*v.     Submitters*
 

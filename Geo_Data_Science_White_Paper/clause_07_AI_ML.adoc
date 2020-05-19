@@ -12,7 +12,7 @@ This Clause contains these sections:
 ** Recommendations
 
 
-=== The emergence of Artificial Intelligence
+=== The third emergence of Artificial Intelligence
 
 Artificial Intelligence is in its third generation of technology development. In the LP_DS Summit, Satoshi Sekiguchi, AIST, presented a figure showing these three generations: where the top half of the diagram shows development of AI as rule-based, symbolic manipulation with inference engines; and the bottom half address data driven AI based on pattern recognition and machine learning. In this clasue the emphasis will be on Machine Learning.  Knowledge Graphs as a form of AI will be considered in Clause 8.
 

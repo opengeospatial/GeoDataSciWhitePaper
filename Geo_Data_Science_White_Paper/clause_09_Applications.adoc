@@ -1,6 +1,6 @@
 == Data Science Applications and Ethics
 
-This clause provides examples of the application of geospatial data science.  The objective is to show the value of the data and tools discused in earlier sections.  With the application of the data science technology, ethical issues emerge.
+This clause provides examples of the application of geospatial data science.  The objective is to show the value of the data and tools discussed in earlier sections.  With the application of the data science technology, ethical issues emerge.
 
 This Clause contains these sections:
 
