@@ -16,8 +16,11 @@ An objective of the white paper to serve as a basis for the promotion of geospat
 
 [big]*iv.    Submitting organizations*
 
-This document is based on material from organizations that participated in the Location Powers: Data Science Summit as listed in Annex A.
+This document is prepared from material provided by organizations that planned and/or presented in the summit:  AIST, Topio Networks, AWS, Orion Systems, City of Los Angeles, CrowdAI, Defense Digital Service, ESIP Federation, Esri, European Space Agency, Google, Health Solutions Research, JCC Consulting, MAXAR, NASA, NatureServe, NGA, NVIDIA, OmniSci, Oracle, Ordnance Survey UK, Pitney Bowes, Radiant Earth, SOFWERX, The Climate Corporation, University of Virginia, University of Maryland - College Park, University of Illinois - Urbana Champaign, University of Iowa, US Bureau of Labor Statistics, University of Southern California, US Department of Transportation
+
+A full listing of organizations that participated in the Location Powers: Data Science Summit is in Annex A.
+
 
 [big]*v.     Submitters*
 
-All questions regarding this submission should be directed to the editor: George Percivall,  Open Geospatial Consortium
+All questions regarding this document should be directed to the editor: George Percivall,  Open Geospatial Consortium

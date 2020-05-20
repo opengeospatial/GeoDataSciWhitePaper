@@ -6,5 +6,6 @@
 |===
 |Date |Release |Editor | Primary clauses modified |Description
 |2020-02-28 |0.1 |G. Percivall |all |initial version
-|2020-05-20 |0.2 |G. Percivall |numerous |editorial updates based on participant reviews
+|2020-05-20 |0.2 |G. Percivall |numerous |editorial updates based on participant reviews and comments from Patrick Griffiths, Chris Little
+|2020-05-22 |0.3 (r2) |G. Percivall |front material | added participants as submitters.
 |===
