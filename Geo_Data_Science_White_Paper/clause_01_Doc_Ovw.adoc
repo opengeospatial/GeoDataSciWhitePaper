@@ -3,7 +3,7 @@
 
 Geospatial Data Science has been identified as an important technology development trend by the Open Geospatial Consortium (OGC).  The OGC Technology Forecasting activity began focusing on data science as an outcome of the development of the Big Geospatial Data topic area.  Both Big Data and Data Science have been topics in recent Location Powers Summits.
 
-The Location Powers: Data Science Summit (LP_DS) organized by OGC was held on November 13 and 14, 2020, hosted by Google in Mountain View, CA.  This Geospatial Data Science White Paper captures the content of the Summit and provide a basis for further action in OGC and beyond.
+The Location Powers: Data Science Summit (LP_DS) organized by OGC was held on November 13 and 14, 2019, hosted by Google in Mountain View, CA.  This Geospatial Data Science White Paper captures the content of the Summit and provide a basis for further action in OGC and beyond.
 
 Location Powers Summit brings together industry, research and government experts from across the globe into an interactive discussion that assesses the current situation and produces recommendations for future technology innovations and standards development.   The Location Powers Summits are key to the technology innovation promoted by the OGC.
 
