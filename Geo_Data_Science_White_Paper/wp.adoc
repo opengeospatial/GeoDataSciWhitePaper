@@ -15,8 +15,8 @@
 |===
 |{set:cellbgcolor:#FFFFFF}
 |[big]*Open Geospatial Consortium*
-|Submission Date: <2020-05-22>
-|Approval Date:   <yyyy-mm-dd>
+|Submission Date: 2020-05-22
+|Approval Date:   2020-06-05
 |Publication Date:   <yyyy-mm-dd>
 |External identifier of this OGC(R) document: http://www.opengis.net/doc/{doc-type}/{standard}/{m.n}
 |Internal reference number of this OGC(R) document:  20-001r2 
@@ -32,7 +32,7 @@
 [cols = "^", frame = "none", grid = "none"]
 |===
 |*Copyright notice*
-|Copyright (C) <year> Open Geospatial Consortium
+|Copyright (C) 2020 Open Geospatial Consortium
 |To obtain additional rights of use, visit http://www.opengeospatial.org/legal/
 |===
 
@@ -47,7 +47,7 @@ This document is not an OGC Standard. This document is an OGC White Paper and is
 |===
 |Document type:   	OGC® White Paper
 |Document subtype:
-|Document stage:   	Draft
+|Document stage:   	Approved
 |Document language: 	English
 |===
 

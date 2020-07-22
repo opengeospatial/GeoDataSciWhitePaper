@@ -5,13 +5,13 @@ Geospatial Data Science has been identified as an important technology developme
 
 The Location Powers: Data Science Summit (LP_DS) organized by OGC was held on November 13 and 14, 2019, hosted by Google in Mountain View, CA.  This Geospatial Data Science White Paper captures the content of the Summit and provide a basis for further action in OGC and beyond.
 
-Location Powers Summit brings together industry, research and government experts from across the globe into an interactive discussion that assesses the current situation and produces recommendations for future technology innovations and standards development.   The Location Powers Summits are key to the technology innovation promoted by the OGC.
+Location Powers Summits bring together industry, research, and government experts from across the globe into an interactive discussion that assesses the current situation and produces recommendations for future technology innovations and standards development.   The Location Powers Summits are key to the technology innovation promoted by the OGC.
 
-The Location Powers: Data Science Summit convened experts on data science, machine learning, artificial intelligence, cloud computing, remote sensing and GIS to assess the current situation of geospatial data science.  Participation by leaders in social sciences, business development, government policy and information technology led to recommendations with meaningful outcomes for geospatial data science development.
+The Location Powers: Data Science Summit convened experts on data science, machine learning, artificial intelligence, cloud computing, remote sensing and GIS to assess the current situation of geospatial data science.  Participation by leaders in social sciences, business development, government policy, and information technology led to recommendations with meaningful outcomes for geospatial data science development.
 
-The LP_DS Summit considered the explosive availability of data about nearly every aspect of human activity along with revolutionary advances in computing technologies that is transforming geospatial data science.    The shift from data-scarce to data-rich environment comes from mobile devices, remote sensing and the Internet of Things. Nearly all of this data has components of location and time. Innovations in cloud computing and big data provides methods to perform data analytics at exceedingly large scale and speed. The development of intelligent systems using knowledge models and their impact on our insights and understanding was the focus of the LP_DS.
+The LP_DS Summit considered the explosive availability of data about nearly every aspect of human activity along with revolutionary advances in computing technologies that is transforming geospatial data science. The shift from data-scarce to data-rich environment comes from mobile devices, remote sensing, and the Internet of Things. Nearly all of this data has components of location and time. Innovations in cloud computing and big data provides methods to perform data analytics at exceedingly large scale and speed. The development of intelligent systems using knowledge models and their impact on our insights and understanding was the focus of the LP_DS.
 
-A summary of the topics discussed in the LP_DS is shown in the figure:
+A summary of the topics discussed in the LP_DS is shown in the figure below.
 
 .Geospatial Data Science
 image::figures/FIG01.01_GDS_Mindmap.png[600,600,role="center"]
@@ -19,14 +19,23 @@ image::figures/FIG01.01_GDS_Mindmap.png[600,600,role="center"]
 This White Paper is organized as follows:
 
 * Data Topics
+
 ** Big Geospatial Data (Clause 3)
+
 ** Data Scientists, Teams, Process (Clause 4)
+
 ** Data Management (Clause 5)
+
 * Tools
+
 ** Geospatial Representations and Analytics (Clause 6)
+
 ** AI and Machine Learning (Clause 7)
+
 ** Models and Decisions (Clause 8)
+
 * Data Science Applications and Ethics (Clause 9)
+
 * Emerging Trends (Clause 10)
 
 The Emerging Trends are: Edge Computing and Heterogeneous Computing
