@@ -17,8 +17,8 @@
 |[big]*Open Geospatial Consortium*
 |Submission Date: 2020-05-22
 |Approval Date:   2020-06-05
-|Publication Date:   <yyyy-mm-dd>
-|External identifier of this OGC(R) document: http://www.opengis.net/doc/{doc-type}/{standard}/{m.n}
+|Publication Date:   2020-07-22
+|External identifier of this OGC(R) document: http://www.opengis.net/doc/WP/GeoDataSci
 |Internal reference number of this OGC(R) document:  20-001r2 
 |Category: OGC(R) White Paper
 |Editor:  George Percivall
